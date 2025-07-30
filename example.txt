@@ -1,0 +1,1260 @@
+Original Message
+Message ID	<3iBF5z2US6CXqWKHFD7_YA@geopod-ismtpd-9>
+Created at:	Sat, Jul 26, 2025 at 8:09 AM (Delivered after 4 seconds)
+From:	Fanatics Collect <cs@email.fanaticscollect.com>
+To:	isaaclawchuan@gmail.com
+Subject:	Your Buy Now Sale is Complete! 🎉
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain email.fanaticscollect.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: pokeemail77@gmail.com
+Received: by 2002:a05:6130:1142:b0:881:1b5f:2b9b with SMTP id cf2csp1767380uab;
+        Fri, 25 Jul 2025 17:09:05 -0700 (PDT)
+X-Forwarded-Encrypted: i=4; AJvYcCVUwDZjxc9SvbnYofPmfp0I8QRZsgpWDmowY4tSfPm3nnWuZHxCe+B3XVH1iUd7Wpa+qPNkdaFMl/eHFQ==@gmail.com
+X-Received: by 2002:a2e:a58c:0:b0:32b:7e2b:5215 with SMTP id 38308e7fff4ca-331ee78e6ebmr11902561fa.17.1753488544843;
+        Fri, 25 Jul 2025 17:09:04 -0700 (PDT)
+ARC-Seal: i=3; a=rsa-sha256; t=1753488544; cv=pass;
+        d=google.com; s=arc-20240605;
+        b=d1r/KSl2y5HpZZPKfinUI+iL0OkEZfKwOc+nXp1gxWhenBoDMVWlV+Aa/ju9O5Twbe
+         rUP+n8LzXzF1GedL0Td+Q27s2duSqSFdOW3cJP938bCbWN91dDeQGZVI6WBmpQwZbjuP
+         RW/+f2gnq9B+ePznTjDoYilmZA+QTnEtpqQnY/eK/UaaD122wvKbDu8qazjuf1EAUtSo
+         njLZczOeLO/1iKLzqw/XtPePRY9IrNCl+3rA5Xr5qB7EembdcM0xHtXWRt6EQwwx8lx7
+         i9LbEX0hzMenrx4GzNP3AKDFZy+jHf0SjPz5UsYktz/x5oVxeA/1DK7fkQWOlTI/NXcU
+         oeIg==
+ARC-Message-Signature: i=3; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=to:reply-to:subject:message-id:mime-version:from:date
+         :dkim-signature:dkim-signature:delivered-to;
+        bh=3qjsed+YBR61BO/+/4c2E+2ncU71omA/izkDXHUcea8=;
+        fh=1vBCLGlZCan2nzLzsiey8pM+gyAxjI4XkOXuXWWvKaE=;
+        b=gaJ5Kjueio1Q5hH5qLf8dBPITJJDpJzlaxYIAcb+h7DczYHpMl+G+19+/QUyQwwviz
+         AgjuDpKF6VmsoR5RB9Lxn3emRzOssxvyGB98t6oCUNrmgQjn10v2/yO9cmGbbrSwigYD
+         7ObsrotOx6vK1VsxxopA6+uZ2gJXy4zdCX7sF5VP9nMNTHuKwXQSb1ogCZ2BNXvjRkZi
+         Z+uvcdHF1cy5ymcN2Sf6EiziGVxjVCiXCxODz7g+KaYxEKqJ9IuTVadin24c6GEcvbfg
+         r3HeO5F1trNDljtVb0PfFxra/NIkGxnM/nTVgvmoGqq3oHuW2v4GauTGRNGDA+7TXtml
+         QiFQ==;
+        dara=google.com
+ARC-Authentication-Results: i=3; mx.google.com;
+       dkim=pass header.i=@email.fanaticscollect.com header.s=s1 header.b=QN3cmeec;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=raSJbX2w;
+       arc=pass (i=2 spf=pass spfdomain=em4609.email.fanaticscollect.com dkim=pass dkdomain=email.fanaticscollect.com dkim=pass dkdomain=sendgrid.info dmarc=pass fromdomain=email.fanaticscollect.com);
+       spf=pass (google.com: domain of isaaclawchuan+caf_=pokeemail77=gmail.com@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom="isaaclawchuan+caf_=pokeemail77=gmail.com@gmail.com";
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=email.fanaticscollect.com;
+       dara=pass header.i=@gmail.com
+Return-Path: <isaaclawchuan+caf_=pokeemail77=gmail.com@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id 38308e7fff4ca-331f40d2d6asor3666951fa.5.2025.07.25.17.09.04
+        for <pokeemail77@gmail.com>
+        (Google Transport Security);
+        Fri, 25 Jul 2025 17:09:04 -0700 (PDT)
+Received-SPF: pass (google.com: domain of isaaclawchuan+caf_=pokeemail77=gmail.com@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@email.fanaticscollect.com header.s=s1 header.b=QN3cmeec;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=raSJbX2w;
+       arc=pass (i=2 spf=pass spfdomain=em4609.email.fanaticscollect.com dkim=pass dkdomain=email.fanaticscollect.com dkim=pass dkdomain=sendgrid.info dmarc=pass fromdomain=email.fanaticscollect.com);
+       spf=pass (google.com: domain of isaaclawchuan+caf_=pokeemail77=gmail.com@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom="isaaclawchuan+caf_=pokeemail77=gmail.com@gmail.com";
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=email.fanaticscollect.com;
+       dara=pass header.i=@gmail.com
+ARC-Seal: i=2; a=rsa-sha256; t=1753488544; cv=pass;
+        d=google.com; s=arc-20240605;
+        b=j9B+vSmpGG39McTmako1do2XrlYPL1t0Umf8pfV4GXAr226Un04SOsVXwawuPTCQSj
+         ZaH3tizPhVwNvX+yj7taZrrvaT6X+K2m6PxcjyUXtYiC9imS9CpEgT6+p5XlUa5QTnqs
+         8Y1WH4tiJz7S8jhevdyhkyOWEzMuX2jBKg3Nf84gxIeJG2QH1kEVWtu0l+OCTJV+KlJI
+         dbg3AbTvxRxM0vroCG7RuIW4665kULaiTn0544TMn1VXjFBNJtVr+LZvN/VyiLt/WGY5
+         KSZiipbNUBn4wTMBZz3xljrpPpVg9mzFBZM5J9f0Q4+wtyLq4ficNqrLPrIRW48pe89H
+         TctQ==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=to:reply-to:subject:message-id:mime-version:from:date
+         :dkim-signature:dkim-signature:delivered-to;
+        bh=3qjsed+YBR61BO/+/4c2E+2ncU71omA/izkDXHUcea8=;
+        fh=1vBCLGlZCan2nzLzsiey8pM+gyAxjI4XkOXuXWWvKaE=;
+        b=JhFMykmm+W/BU48RNEi+5j2C97ZQrAOHMRT/NYuzEVb5+D2fP4jmaHw5aTMHmmfIgC
+         aPvPIgNC78LQWTw43iXA1eY71yP6Ev3cNUf2w6e28mqJsqBgCVuKhtNsQh0cWukAyHUO
+         joCEXZEO6XIxyAelEJ6WR6llZORfzFqH1N2U1Fg4WKf5/4r7NVnne/BR8SZQX+ZoNISg
+         h3/hyTyhZ59Lm4ZbYW52UwxLzMOF/LIVyRQK3bjd1qSJYGwVrnbxMbFCPjVrBeoILN0K
+         GD+n/juWPKK6n7E2hyJmy/4gNUh9qboBVcmTfwjpT77h4wXUzjMSEZSEwEVsTGHUQUry
+         OmSA==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@email.fanaticscollect.com header.s=s1 header.b=QN3cmeec;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=raSJbX2w;
+       spf=pass (google.com: domain of bounces+20266790-cfe9-isaaclawchuan=gmail.com@em4609.email.fanaticscollect.com designates 168.245.75.95 as permitted sender) smtp.mailfrom="bounces+20266790-cfe9-isaaclawchuan=gmail.com@em4609.email.fanaticscollect.com";
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=email.fanaticscollect.com
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1753488544; x=1754093344;
+        h=to:reply-to:subject:message-id:mime-version:from:date
+         :dkim-signature:dkim-signature:delivered-to:x-forwarded-for
+         :x-forwarded-to:x-gm-message-state:from:to:cc:subject:date
+         :message-id:reply-to;
+        bh=3qjsed+YBR61BO/+/4c2E+2ncU71omA/izkDXHUcea8=;
+        b=vr/R6Rvblmzg54S4Ekzg5Y9QqbVbmzcCpl4gxZT3EqNW73nYPLpmYsh7zmGhKXAZ5O
+         9j9r9IUPrau84dXujdwvSkaZnWrA/xbxfXGZGp0f0dtM7tvaydxdTnjFnSKf0eQ6m8OJ
+         cjShJpyncaBEWrxSIQci/yZ8bXc0LrHcOrX9e/hgBxLfS0SWrLnwP9Cjp5LIjB56YC7O
+         aOJr5OdquOytDvlVl2JET682DEvwVmtey4grlokbyTY2cpSGsQhil8sfOQ+k2giXQtjM
+         5hn0Q13ENr+fXZHdF7EjZwxbUjThSIfx/VLp+uJ+XfTwDTrRE0N1Apsxhvp022aJX0FB
+         zkLA==
+X-Forwarded-Encrypted: i=2; AJvYcCV0N/X37wWfDdb/YGFOpFsViSmPYiQD+0YGpbltZxZtepG/ip66Qg+6o4gtOgRDMQJJWPX3pwdsHNthbg==@gmail.com
+X-Gm-Message-State: AOJu0Yyunsva6I3RxUcyW8G+VMuSRXYq/pcChg+f789uogklFmUAj4Pi hfumzg8M4CaxacmPvp9utHpwz3ZR5lJ4AJ1N+PfRP3FNxCJ8D3wUmfUQupdJZ97w482amTg6LOg APK+WJndWqTgxSZGB0AFrpkZUTlUzhw2SH3czvbxsPNhCzc153MnQjk6TRm2aZCPD
+X-Received: by 2002:a2e:bd16:0:b0:32a:648e:7ee3 with SMTP id 38308e7fff4ca-331ee8047b0mr11501081fa.25.1753488543956;
+        Fri, 25 Jul 2025 17:09:03 -0700 (PDT)
+X-Forwarded-To: pokeemail77@gmail.com
+X-Forwarded-For: isaaclawchuan@gmail.com pokeemail77@gmail.com
+Delivered-To: isaaclawchuan@gmail.com
+Received: by 2002:a2e:8481:0:b0:331:e870:3a52 with SMTP id b1csp774637ljh;
+        Fri, 25 Jul 2025 17:09:02 -0700 (PDT)
+X-Google-Smtp-Source: AGHT+IGPM9zRsmDBt2QfbU705P81VnxWalp1GuQQ3+FeHVSvOhN5DxJ0J8ytKxbXH5y5f4vQtUEy
+X-Received: by 2002:a92:d987:0:b0:3e1:433e:2605 with SMTP id e9e14a558f8ab-3e3b9814a67mr126092075ab.9.1753488542106;
+        Fri, 25 Jul 2025 17:09:02 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1753488542; cv=none;
+        d=google.com; s=arc-20240605;
+        b=QSssFfGCPzh30iaF4KcM9TZXwVl4SHl1gXWuXOToiMYtOhk7nINg08a3JBAlTSn7VT
+         0CiFxXMz5fBPUwvdNsaea/CpL6Ns88LHFTleMJv401n3D/r+D7eb2Ndgv2+62MwI521U
+         2LWDVuuYD3rEQOyV/Sgt4Whf9N+bgF7EklSQEHG+KOBvG2HM7Ik4qfridooYidWd5Qjn
+         2fdF5DeySQxX8lQkbcqtNOCGLCFBRBUdW8TYFpOumzOE6u7aLHOFNDBVqCyANYH7A1C8
+         j67FLCHJbaiLVEd23nr9Wu3/ggrDfxdDIYwwDs5ptNe1mexJP2Gg+8fCTbWFFMXfvV25
+         vyFA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=to:reply-to:subject:message-id:mime-version:from:date
+         :dkim-signature:dkim-signature;
+        bh=3qjsed+YBR61BO/+/4c2E+2ncU71omA/izkDXHUcea8=;
+        fh=MuNm2DmmX9Qou/aurJ9d24C6dm4WEdYL/UzEtxTOZZw=;
+        b=ACdAVVWWlU2XH/3zWSwj3ojo3IRQ7/YFx+9E1E4bFZbyhilMEoB+uTTCK2U6Vh8GzF
+         njndgAPWFbfBnQoK9TJAFk5kPNwzCYqFC5p0UK/m9lYAFTni6RT0Et9LWUZkEEq4m0rg
+         V3ulO0ksbbHdYy++ceOr/6lkn8NG6ueuRVv8mqCprr5LgSvdY0vskCimQLDQuSpabQss
+         XCJ93gWDS2kIuDFAW/E2+cERkF6/o29nG2PJa+U1TNTao1Gvn/Bx4i0n2I5QfDQleAeB
+         NIUM8Ic3kisZrJAtk5Qeis6vvSkVfh3aJkVGdIEaGSBodhMcav1Ls5Hecw5EqmivmGAH
+         J/XQ==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@email.fanaticscollect.com header.s=s1 header.b=QN3cmeec;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=raSJbX2w;
+       spf=pass (google.com: domain of bounces+20266790-cfe9-isaaclawchuan=gmail.com@em4609.email.fanaticscollect.com designates 168.245.75.95 as permitted sender) smtp.mailfrom="bounces+20266790-cfe9-isaaclawchuan=gmail.com@em4609.email.fanaticscollect.com";
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=email.fanaticscollect.com
+Return-Path: <bounces+20266790-cfe9-isaaclawchuan=gmail.com@em4609.email.fanaticscollect.com>
+Received: from xvfrqbrf.outbound-mail.sendgrid.net (xvfrqbrf.outbound-mail.sendgrid.net. [168.245.75.95])
+        by mx.google.com with ESMTPS id e9e14a558f8ab-3e3caaf8fddsi21908875ab.44.2025.07.25.17.09.01
+        for <isaaclawchuan@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Fri, 25 Jul 2025 17:09:02 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+20266790-cfe9-isaaclawchuan=gmail.com@em4609.email.fanaticscollect.com designates 168.245.75.95 as permitted sender) client-ip=168.245.75.95;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.fanaticscollect.com; h=content-type:date:from:mime-version:subject:reply-to:to:cc: content-type:date:feedback-id:from:subject:to; s=s1; bh=3qjsed+YBR61BO/+/4c2E+2ncU71omA/izkDXHUcea8=; b=QN3cmeec64AP/uhXWzemusgPQZaCz4dHvK4sFX4jerqvxy/gyHbIgnwznRJG8nfDOfW9 DoCAw+yMYZ3LEfQaj7Hbkm/Mmslbe1BDUURHaNA/eEqBJs8ocYU/neBuuR5J9PS8JPO4uM HmHlaNBzOY09j+rjJzKjODJM/eS+WgrNMht+33BPsyQDB13FHi1WzytLTktyaRbFu31O7Q /lTbm7ux3udY2S/BTqPaGPopy/hF6iAkI9LxGTPS4pkxavi1/OAyFn83sSsPkSevxHGgWI 8dE89/R5pWw1sFbfxmHG0dM84knIt05h6B8iHbw7iXYXfqkZLLnT7XGpnNHr9Www==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info; h=content-type:date:from:mime-version:subject:reply-to:to:cc: content-type:date:feedback-id:from:subject:to; s=smtpapi; bh=3qjsed+YBR61BO/+/4c2E+2ncU71omA/izkDXHUcea8=; b=raSJbX2wQIpgLTwcoFUnJiiAoKxl9PS9kb6T66UvwQRGV0nvl63mXtBBA8oJSm2vaqpV DnYeyORRIc9ZVf5ta9eu6P6wAapDC7g+H/fHuksb+USNdEbfs/V+FXse70cWLA8snOsI5M bILZyWR5KU/CS7y2isfKr13L15oV5uYW8=
+Received: by recvd-7f9f4df85b-kljnk with SMTP id recvd-7f9f4df85b-kljnk-1-68841C9C-1C 2025-07-26 00:09:00.406663173 +0000 UTC m=+4433905.834539417
+Received: from MjAyNjY3OTA (unknown) by geopod-ismtpd-9 (SG) with HTTP id 3iBF5z2US6CXqWKHFD7_YA Sat, 26 Jul 2025 00:09:00.376 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=5f84dbc7ebd8856134260e145644e2348d1dba2cdf8e287721cb5a56bbad
+Date: Sat, 26 Jul 2025 00:09:00 +0000 (UTC)
+From: Fanatics Collect <cs@email.fanaticscollect.com>
+Mime-Version: 1.0
+Message-ID: <3iBF5z2US6CXqWKHFD7_YA@geopod-ismtpd-9>
+Subject: Your Buy Now Sale is Complete! 🎉
+Reply-To: Fanatics Collect <cs@fanaticscollect.com>
+X-SG-EID: u001.PrlTOyQUPSK9h0BA8BEzL5rHzp2L/Tv+Vr9+AfZmIoMPPi2jTv91LFGC/lltxnNLR327b7rn6drvX7sGvGppBtM/krRwlBl+y6Xy+XggxoyV0mBzfn8zILUGU2Onz31SxjfJNFvyqwcEa7WKmzSSz0jqVPls7rW8oFULYdhR5f2QB2kdkJmYIn+8VEyqo/cyRcxdKk0eK+Wgf4wPoW0aRj2YYUORZYxX04p+cSFBfpjD8JqD5SufrQc688VYimaZhmGBY5b1hboK8d/lwbBtkQ==
+X-SG-ID: u001.SdBcvi+Evd/bQef8eZF3BpTL9BgbK5wfSJMJGMsmprDsPyUTnMagHRCjb/65GublXbjDHanRch3K7LzSaAQUXmUr+2tO5cWPj9oBPQNyoZw4WEV8LArlzVCW7pKHENAoacv41s4yADLJBgnJrUhm+aHJs+TQreRkv4Ei+n7pXyspinBndteVuZhFq6/R7tX7jAEX4ru/dzXn8EWELMUiv+e5aLm7H9fJ2rbF0vwNZU6bCwO5Us9KVkbsE2uOXQZudNB+tFx5dD1TJxeAe97UkJinqGziyL8sO1nhp69kjwqAUCZRmaOoTSysTiFY1ETW
+To: isaaclawchuan@gmail.com
+X-Entity-ID: u001.Am25+ECv86k4ETi6MN1wgw==
+
+--5f84dbc7ebd8856134260e145644e2348d1dba2cdf8e287721cb5a56bbad
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Funds will be applied to your account soon.
+
+Fanatics Marketplace ( https://url7562.email.fanaticscollect.com/ls/click?u=
+pn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG66-2FX-2F2850NXUevRNM-2BTRpAQIsQAJwBCysAM8j=
+NZ7Flh6xhC8_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI=
+3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8=
+UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHr=
+fH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhUHPRf=
+u3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmnzNww=
+AZo-2BFgwHPhQ4OwGGu5kRG69SteN8Wsx1lz0rQPjVKXxGIR77eZGLfLu8MkJM1hWN62mQU6-2F=
+o6Y26KEQfdlItwkoXYTlKPKYtoKeOWYDMKxEfVVkVr3PgXLIS4lZcAfzAF5bOMawuL51g08XplD=
+4k-3D )
+
+WEEKLY ( https://url7562.email.fanaticscollect.com/ls/click?upn=3Du001.LRDm=
+BuEtrLGmZSh7Tg-2FG63hi2-2BVTmRPAsb2VZIunhOdSLVK2rGeWZ3i3kAiWwqm131zgJFHgVRu=
+SWSE18XpUaR4NYKwF2SPOIMMIso-2FM5ng-3DnYFk_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3h=
+V7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk=
+3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-=
+2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2=
+Ru5JiiU-2B8sXinbZSMR3X1AhUHPRfu3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8=
+sC2RkiLn2UD4RllRYpn2RAJtmnzN6www-2Fiuflf5OyyocIxqMTlyLbVJz8nGI7InSFAbKjcWO0=
+H-2B-2Fg0jck4CGMplgJeXdkP-2FGs6OefjvCLuroLFJ4vofJMXe85O5N7s0NRQs5wM-2F5ISer=
+LxKoM0oYSD82d9VG-2FlqPm0Spa6oWFtYuVqdqz4-3D ) PREMIER ( https://url7562.ema=
+il.fanaticscollect.com/ls/click?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG63hi2-2BVT=
+mRPAsb2VZIunhOejMK7LfMt1YV-2FoGeX23sxqc2dW6fgFBDNj-2BW9yjrHvdkBha3cOB608WK9=
+nwUiiEYQ-3DrguG_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CY=
+AyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco=
+3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki=
+3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhU=
+HPRfu3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmn=
+zN58H0GZ3IzhUKPkQQrXb9mEYTcXtJc9bSJzITswv8IUt7TYVKH0i0aGzojmgc86ZgKroMKlzQg=
+Rk3Irk2pKhFCiGyimeNk0KVZG60TcYjREqqsxy5x6TN-2BUZfTp1VpAdme4gCN0eis-2FuIvPML=
+SPnpZ4-3D ) BUY NOW ( https://url7562.email.fanaticscollect.com/ls/click?up=
+n=3Du001.LRDmBuEtrLGmZSh7Tg-2FG63hi2-2BVTmRPAsb2VZIunhOep8-2BGMDROy2laJ6xst=
+CkvflyO-2FFRa-2BH33CStrtOkWY04Z-2BPU-2BLNCQ7-2BDv3-2BdH61WY-3Dcvn0_fLkVTkze=
+N4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI=
+9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwo=
+k7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr43=
+0i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhUHPRfu3-2FW-2B-2B7hurm2fC=
+Yi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmnzN-2BOQtf4Y-2BPbzLRXtm-2=
+Bms7qN-2FO8k2mqAz6Nx11DS-2BVv12qgFBhp8rVwyX-2FEXWegisbvZkm-2FKWhbuCJ0TC7GKS=
+wUNa-2FsbHcHolPcXSRGemK6yX9EXe6hcfj4hKpY7f8uHYGhyN16J05xppJHzMbZCVg6w-3D ) =
+SELL ( https://url7562.email.fanaticscollect.com/ls/click?upn=3Du001.LRDmBu=
+EtrLGmZSh7Tg-2FG63drnElqya64H6IWL4fxF7efomFFug1tUbH1-2BRHdTiu6SmMwMD6-2BO1i=
+nkNRBChClQQ-3D-3D_hZU_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6=
+mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiF=
+dr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxo=
+LFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR=
+3X1AhUHPRfu3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2=
+RAJtmnzNyZuA73TethYqwuCHm0-2BhxOaMBZbwwJ6bwsXMeU2QolgLWaJEor2XpksO0A4UMmUF-=
+2B8ScFWAcVyDlW9wcTc6hD-2BVG8aHvdV14j9R7xNaAVWa05ko5xIkpsKUSkOJ0SJDrzCmwfha2=
+c5ioe-2FzspHeN-2F8-3D )
+
+Hi Isaac,
+
+Great news, your Buy Now sale is complete and funds will be applied to your=
+ Fanatics Collect account soon!
+
+*2000 Pokemon Gym Heroes Holo Misty&apos;s Seadra #9 CGC 8 NM-MT* **
+
+SALE PRICE:
+$32.00
+SELLER FEES:
+$1.92
+TOTAL PAYOUT:
+*$30.08*
+
+VIEW RECENT SALES ( https://url7562.email.fanaticscollect.com/ls/click?upn=
+=3Du001.LRDmBuEtrLGmZSh7Tg-2FG63drnElqya64H6IWL4fxF7fO8-2Bxe4NAdgS7zW1d77WG=
+k2jus99OdquAPHGMpTWumCMQ48fncicylGQOT0z4ofDDau1s8Pdc6NX4IXs7SmXjmS8be_fLkVT=
+kzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV=
+0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFR=
+Bwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxy=
+r430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhUHPRfu3-2FW-2B-2B7hurm=
+2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmnzN9C0zELL4JmfopQf8haj=
+yb1kZZuwRtUeqy0mYHIeOC-2BkxuOZ0EmYG3kTCzbzn3uTlCankmO5yQoDbk68gfyygw76QUIaH=
+KVmUHHKksz2ULqOgPx2Y-2BkOkIQEGzbC1-2B5y-2F8jCYixuOcIPZLdQNrEXwns-3D )
+
+If you have any questions, feel free to reach out to our Collector Experien=
+ce at one of the links below.
+
+Fanatics Marketplace Logo ( https://url7562.email.fanaticscollect.com/ls/cl=
+ick?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG66-2FX-2F2850NXUevRNM-2BTRpAQIsQAJwBCy=
+sAM8jNZ7Flh6zCyw_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7C=
+YAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yc=
+o3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyk=
+i3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1Ah=
+UHPRfu3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtm=
+nzN7yNLT5iqwLXceFA3JjFFmq4N3TZKD2qYMM8KHTTd87mJL-2Bg0qSDP-2FG1Bc-2B-2BXKSx3=
+LVcn5ICZy7vfCl1FEmW74T4eKNVKbO2BxmJ5EbjYqX4X3qmTo9MpqCvNxq9xDmkJWIIewKpl6tR=
+EfVclcsrJmY-3D )
+
+If you have any general questions, please click here ( https://url7562.emai=
+l.fanaticscollect.com/ls/click?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG64Y-2FvceGE=
+qmBBKIIKByP8lrrOAQWCjfrJK2gZL80cWOTbaaAFGriAnYG9FXqnszCgw-3D-3DVciG_fLkVTkz=
+eN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0e=
+I9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBw=
+ok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr4=
+30i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhUHPRfu3-2FW-2B-2B7hurm2f=
+CYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmnzN0LMXGsQbWtrUDYGfAE4AG=
+oP2jnSR3aS72HufCtIylZy-2B4od1KT4I-2BODPVeEP0KAwbrITzGVmnLTSWFGZWGYUYEHwmPE9=
+4np60ijuVzE2HNrd5jjIyv1OpG0pCb0mAdzMIzsWhvVOCFjbO9-2B8xlTJHM-3D ). For more=
+ specific inquiries, please click here ( https://url7562.email.fanaticscoll=
+ect.com/ls/click?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG64Y-2FvceGEqmBBKIIKByP8lr=
+rOAQWCjfrJK2gZL80cWOTchaKD0VZ15kWoqzZEzfbuMpWeYHX3XIymKXChXDRG7f9VWmextesqi=
+Wxod73RA4t0fD5_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYA=
+yDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3=
+Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3=
+aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhUH=
+PRfu3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmnz=
+Nw0DEAfLi1bc-2FBA8uTQhJjjkvuGcdD53TCuzxzk6k7W0MavsfGC9fG6vQCaj8YYDjxvmZbzds=
+sS1ySDyYtMKDj8P1QD5Lh99yHrdieOh2poqpyCX49A4N9QZJWG7I1-2F42W95zAFlD4jgXpAWUN=
+7vKdc-3D ) to chat with a member of our Collectors Experience team.
+
+Fanatics Collect
+7560 SW Durham Rd.
+Tigard, OR 97224
+--5f84dbc7ebd8856134260e145644e2348d1dba2cdf8e287721cb5a56bbad
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version=3D"2" class=3D"sg-campaigns" xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+    <head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+      <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D"text/css">
+    body {width: 700px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D"text/css">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #115dcd;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><link href=3D"https://pwccauctions.s3.u=
+s-west-2.amazonaws.com/website/fonts/ABC-Diatype.css" rel=3D"stylesheet"><s=
+tyle>@import url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/f=
+onts/ABCDiatype-Regular.woff2"),("https://s3-us-west-2.amazonaws.com/pwccau=
+ctions/website/fonts/ABCDiatype-Bold.woff2")</style><style>*{
+=09box-sizing:border-box;=20
+=09font-family: ABC Diatype, "Helvetica", "Arial", sans-serif;
+}
+body{
+=09margin:0;
+=09padding:0;=20
+=09font-family: ABC Diatype, "Helvetica", "Arial", sans-serif;
+}
+a[x-apple-data-detectors]{
+=09color:inherit!important;
+=09text-decoration:inherit!important
+}
+#MessageViewBody a{
+=09color:inherit;
+=09text-decoration:none
+}
+p{
+=09line-height:inherit
+}
+.desktop_hide,.desktop_hide table{
+=09mso-hide:all;
+=09display:none;
+=09max-height:0;
+=09overflow:hidden
+}
+.image_block img+div{
+=09display:none
+}
+.menu_block.desktop_hide .menu-links span{
+=09mso-hide:all
+}
+@media (max-width:720px){
+=09.mobile_hide{
+=09=09display:none
+=09}
+=09.sg_row-content{
+=09=09width:100%!important
+=09}
+=09.stack .sg_column{
+=09=09width:100%;
+=09=09display:block
+=09}
+=09.mobile_hide{
+=09=09min-height:0;
+=09=09max-height:0;
+=09=09max-width:0;
+=09=09overflow:hidden;
+=09=09font-size:0
+=09}
+=09.desktop_hide,.desktop_hide table{
+=09=09display:table!important;
+=09=09max-height:none!important
+=09}
+=09.sg_row-2 .sg_column-1 .block-1.heading_block h3,.sg_row-2 .sg_column-3 =
+.block-1.heading_block h3,.sg_row-3 .sg_column-1 .block-1.heading_block h3,=
+.sg_row-3 .sg_column-2 .block-1.heading_block h3,.sg_row-7 .sg_column-1 .bl=
+ock-1.paragraph_block td.pad>div,.sg_row-8 .sg_column-1 .block-1.paragraph_=
+block td.pad>div{
+=09=09font-size:12px!important
+=09}
+=09.sg_row-1 .sg_column-2 .block-1.menu_block .alignment{
+=09=09text-align:center!important
+=09}
+=09.sg_row-1 .sg_column-2 .block-1.menu_block td.pad{
+=09=09padding:8px 0!important
+=09}
+=09.sg_row-1 .sg_column-2 .block-1.menu_block .menu-links a,.sg_row-1 .sg_c=
+olumn-2 .block-1.menu_block .menu-links span{
+=09=09font-size:13px!important
+=09}
+=09.sg_row-1 .sg_column-1{
+=09=09padding:0px!important
+=09}
+=09.sg_row-1 .sg_column-2{
+=09=09padding:0px!important
+=09}
+=09.sg_row-5 .sg_column-1{
+=09=09padding:5px 0 16px!important
+=09}
+=09.sg_row-7 .sg_column-1,.sg_row-8 .sg_column-1{
+=09=09padding:16px!important
+=09}
+=09.sg_row-6 .sg_column-1{
+=09=09padding: 16px 8px !important;
+=09}
+=09.sg_row-6 .sg_column-2{
+=09=09padding:16px 8px!important
+=09}
+=09.mobile-text-14{
+=09=09font-size: 14px !important;
+=09}
+=09.logo-desktop{
+=09=09padding-top: 0px !important;
+=09=09 padding-bottom: 0px !important;
+=09}
+=09.menu_links_dsktp_pad_16{
+=09=09padding-left: 8px !important;
+=09=09 padding-right: 8px !important;
+=09}
+=09.footer-text{
+=09=09font-size: 12px !important;
+=09=09line-height: 1.5 !important;
+=09}
+}
+</style><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D"wrapper" data-link-color=3D"#115dcd" data-body-style=
+=3D"font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;">
+        <div class=3D"webkit">
+          <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%" class=3D"wrapper" bgcolor=3D"#FFFFFF">
+            <tr>
+              <td valign=3D"top" bgcolor=3D"#FFFFFF" width=3D"100%">
+                <table width=3D"100%" role=3D"content-container" class=3D"o=
+uter" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                  <tr>
+                    <td width=3D"100%">
+                      <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D"700">
+  <![endif]-->
+                                    <table width=3D"100%" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"width:100%; max-width:700px;" alig=
+n=3D"center">
+                                      <tr>
+                                        <td role=3D"modules-container" styl=
+e=3D"padding:0px 0px 0px 0px; color:#000000; text-align:left;" bgcolor=3D"#=
+FFFFFF" width=3D"100%" align=3D"left"><table class=3D"module preheader preh=
+eader-hide" role=3D"module" data-type=3D"preheader" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;">
+    <tr>
+      <td role=3D"module-content">
+        <p>Funds will be applied to your account soon.</p>
+      </td>
+    </tr>
+  </table><table class=3D"module" role=3D"module" data-type=3D"code" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"61323453-ff61-470c-9c30-dc8998e2401c">
+    <tbody>
+      <tr>
+        <td height=3D"100%" valign=3D"top" role=3D"module-content"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#fff" width=3D"1=
+00%" class=3D"sg_row sg_row-1" align=3D"center">
+<tr>
+   <td>
+=09  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presen=
+tation" style=3D"mso-table-lspace:0;mso-table-rspace:0;border-radius:0;colo=
+r:#000;width:700px;margin:0 auto" width=3D"700" class=3D"sg_row-content sta=
+ck" align=3D"center">
+=09=09 <tr>
+=09=09=09<td class=3D"sg_column sg_column-1 logo-sg_column" style=3D"mso-ta=
+ble-lspace:0;mso-table-rspace:0;font-weight:400;text-align:center;padding-l=
+eft:8px;padding-right:8px;vertical-align:middle;border-top:0;border-right:0=
+;border-bottom:0;border-left:0;margin:0 auto!important;background:linear-gr=
+adient(#fff,#fff);background-color:#fff" width=3D"33.333333333333336%">
+=09=09=09   <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D=
+"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0" width=3D"100=
+%" class=3D"block-1 image_block">
+=09=09=09=09  <tr>
+=09=09=09=09=09 <td class=3D"pad" style=3D"padding-bottom:10px;padding-top:=
+10px;width:100%;padding-right:0;padding-left:0">
+=09=09=09=09=09=09<div class=3D"alignment" align=3D"center" style=3D"line-h=
+eight:10px">
+=09=09=09=09=09=09   <div><a href=3D"https://url7562.email.fanaticscollect.=
+com/ls/click?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG66-2FX-2F2850NXUevRNM-2BTRpAQ=
+IsQAJwBCysAM8jNZ7Flh6csXz_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiU=
+DdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a=
+6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5=
+xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinb=
+ZSMR3X1AhUHPRfu3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllR=
+Ypn2RAJtmnzN3oy0kU0XsXQCxbynTtltNX3u1hL0gsfML0JFsXI-2FZD9hnosIzhcyUbJVK80x-=
+2BCjI2QsMTL8dDbdVLLOCYIab-2Fj7OW-2Benp1HPirb46jrRdXceEDJBfaZZE-2BwHlT4dnlQl=
+VHT9CE7ctRpIagzq6vk4Jc-3D" style=3D"outline:0" target=3D"_blank" tabindex=
+=3D"-1"><img alt=3D"Fanatics Marketplace" class=3D"logo-desktop" src=3D"htt=
+p://cdn.mcauto-images-production.sendgrid.net/ace90c98c8e22aeb/ab8cfd1a-0e7=
+7-42cc-99a1-073d96c559e0/1100x400.png" style=3D"display:block;margin:0 auto=
+!important;height:auto;border:0;width:180px;max-width:180px" title=3D"Fanat=
+ics Collect" width=3D"180"></a></div>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09 </td>
+=09=09=09=09  </tr>
+=09=09=09   </table>
+=09=09=09</td>
+=09=09=09<td class=3D"sg_column sg_column-2 menu-sg_column" style=3D"mso-ta=
+ble-lspace:0;mso-table-rspace:0;font-weight:400;text-align:right;padding-bo=
+ttom:0;padding-right:0;padding-top:0;vertical-align:middle;border-top:0;bor=
+der-right:0;border-bottom:0;border-left:0" width=3D"66.66666666666667%">
+=09=09=09   <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" role=
+=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0" width=3D"=
+100%" class=3D"block-1 menu_block">
+=09=09=09=09  <tr>
+=09=09=09=09=09 <td class=3D"pad">
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" r=
+ole=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0" width=
+=3D"100%">
+=09=09=09=09=09=09   <tr>
+=09=09=09=09=09=09=09  <td class=3D"alignment" style=3D"text-align:center;f=
+ont-size:0">
+=09=09=09=09=09=09=09=09 <div class=3D"menu-links">
+=09=09=09=09=09=09=09=09=09<!--[if mso]>
+=09=09=09=09=09=09=09=09=09<table border=3D0 cellpadding=3D0 cellspacing=3D=
+0 role=3Dpresentation align=3Dcenter>
+=09=09=09=09=09=09=09=09=09   <tr style=3Dtext-align:center>
+=09=09=09=09=09=09=09=09=09=09  <![endif]--><!--[if mso]>
+=09=09=09=09=09=09=09=09=09=09  <td style=3Dpadding-top:16px;padding-right:=
+16px;padding-left:16px;padding-bottom:8px>
+=09=09=09=09=09=09=09=09=09=09=09 <![endif]--><a href=3D"https://url7562.em=
+ail.fanaticscollect.com/ls/click?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG63hi2-2BV=
+TmRPAsb2VZIunhOdSLVK2rGeWZ3i3kAiWwqm131zgJFHgVRuSWSE18XpUaR4NYKwF2SPOIMMIso=
+-2FM5ng-3DXn77_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYA=
+yDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3=
+Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3=
+aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhUH=
+PRfu3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmnz=
+N4aGlCl3jpA7pN3z0pjQTMYJwbMMbt9vM3-2FxjD17Ue29OQZWXg16yQ94zOMkO2oW-2FED2ffu=
+hU7qESKEQZs1baw-2FmMXceyhtLFtuXG9VpQw729phJ041WMchJhcNcMklWWQMNyaLsI9feVlmh=
+p4FaRdU-3D" style=3D"mso-hide:false;padding-top:16px;padding-bottom:8px;pad=
+ding-left:8px;padding-right:8px;display:inline-block;color:#000;font-family=
+: ABC Diatype Mono, 'PT Mono', monospace;font-size:12px;text-decoration:non=
+e;letter-spacing:normal" target=3D"_self" class=3D"menu_links_dsktp_pad_16"=
+>WEEKLY</a><!--[if mso]><![endif]--><!--[if mso]>
+=09=09=09=09=09=09=09=09=09=09  <td style=3Dpadding-top:16px;padding-right:=
+16px;padding-left:16px;padding-bottom:8px>
+=09=09=09=09=09=09=09=09=09=09=09 <![endif]--><a href=3D"https://url7562.em=
+ail.fanaticscollect.com/ls/click?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG63hi2-2BV=
+TmRPAsb2VZIunhOejMK7LfMt1YV-2FoGeX23sxqc2dW6fgFBDNj-2BW9yjrHvdkBha3cOB608WK=
+9nwUiiEYQ-3D1IzD_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7C=
+YAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yc=
+o3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyk=
+i3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1Ah=
+UHPRfu3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtm=
+nzNzgpXPh4I6Pz51qtjem89ub8Wcv-2Fxi4dy7kocxnJCA-2F6yYxfP-2FxadkHe8DGclU5Y2jd=
+QUacHtrvdEwT7uEgpFI2Y7CcR5o9vhHEjZc5bmX0RUR1VUxlC-2BqkFfukArHqIeyqRwCPxEydS=
+QsmZ584rGtw-3D" style=3D"mso-hide:false;padding-top:16px;padding-bottom:8px=
+;padding-left:8px;padding-right:8px;display:inline-block;color:#000;font-fa=
+mily: ABC Diatype Mono, 'PT Mono', monospace;font-size:12px;text-decoration=
+:none;letter-spacing:normal" target=3D"_self" class=3D"menu_links_dsktp_pad=
+_16">PREMIER</a><!--[if mso]><![endif]--><!--[if mso]>
+=09=09=09=09=09=09=09=09=09=09  <td style=3Dpadding-top:16px;padding-right:=
+16px;padding-left:16px;padding-bottom:8px>
+=09=09=09=09=09=09=09=09=09=09=09 <![endif]--><a href=3D"https://url7562.em=
+ail.fanaticscollect.com/ls/click?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG63hi2-2BV=
+TmRPAsb2VZIunhOep8-2BGMDROy2laJ6xstCkvflyO-2FFRa-2BH33CStrtOkWY04Z-2BPU-2BL=
+NCQ7-2BDv3-2BdH61WY-3DG28w_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdai=
+UDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83=
+a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY=
+5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXin=
+bZSMR3X1AhUHPRfu3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4Rll=
+RYpn2RAJtmnzN3llg9XDVLlcUm9Q5e-2Fm3tTFK-2BOb6bwlTfP2oK5-2FgKXhgii6TEUuB5Q6G=
+tk1oH-2F6U0xGLZ3AkK2Qay5a9XFm9RgBNI1vR8xgPpYB9WtGRPgUeQUEWwFQIIvW15uyHCqLyW=
+K72dZYxGQz-2BF1vLDiS0Es-3D" style=3D"mso-hide:false;padding-top:16px;paddin=
+g-bottom:8px;padding-left:8px;padding-right:8px;display:inline-block;color:=
+#000;font-family: ABC Diatype Mono, 'PT Mono', monospace;font-size:12px;tex=
+t-decoration:none;letter-spacing:normal" target=3D"_self" class=3D"menu_lin=
+ks_dsktp_pad_16">BUY NOW</a><!--[if mso]><![endif]--><!--[if mso]>
+=09=09=09=09=09=09=09=09=09=09  <td style=3Dpadding-top:16px;padding-right:=
+16px;padding-left:16px;padding-bottom:8px>
+=09=09=09=09=09=09=09=09=09=09=09 <![endif]--><a href=3D"https://url7562.em=
+ail.fanaticscollect.com/ls/click?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG63drnElqy=
+a64H6IWL4fxF7efomFFug1tUbH1-2BRHdTiu6SmMwMD6-2BO1inkNRBChClQQ-3D-3DTzl5_fLk=
+VTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1o=
+lV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GP=
+FRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtm=
+xyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhUHPRfu3-2FW-2B-2B7hu=
+rm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmnzN0KoBYO2oQyzMuKIcP=
+Ly1PQeC1e8wEkCk1HgCKJHDquWOFxqT-2FmLHhx7b56wMBXf8YMV08njI5WVOkfsrSzqhhXKtb3=
+43c9ebCi94bO1PfBlZh-2FOS04bt9gDC-2BtXz2qG6PKhhAsMNozm-2BZquDduQ63w-3D" styl=
+e=3D"mso-hide:false;padding-top:16px;padding-bottom:8px;padding-left:8px;pa=
+dding-right:8px;display:inline-block;color:#000;font-family: ABC Diatype Mo=
+no, 'PT Mono', monospace;font-size:12px;text-decoration:none;letter-spacing=
+:normal" target=3D"_self" class=3D"menu_links_dsktp_pad_16">SELL</a><!--[if=
+ mso]><![endif]--><!--[if mso]><![endif]-->
+=09=09=09=09=09=09=09=09 </div>
+=09=09=09=09=09=09=09=09 </td></tr></table>
+=09=09=09=09=09=09=09  </td>
+=09=09=09=09=09=09   </tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09 </td>
+=09=09=09=09  </tr>
+=09=09=09   </table>
+=09=09=09</td>
+=09=09 </tr>
+=09  </table></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"wrapper" role=3D"module" data-type=3D"image" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"fba31bb8-ba3a-4b6e-9be8-e9f52138b7fc.1">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:10px 0px 10px=
+ 0px;" valign=3D"top" align=3D"center">
+          <img class=3D"max-width" border=3D"0" style=3D"display:block; col=
+or:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif;=
+ font-size:16px; max-width:100% !important; width:100%; height:auto !import=
+ant;" width=3D"700" alt=3D"Purchase Completed" data-proportionally-constrai=
+ned=3D"true" data-responsive=3D"true" src=3D"http://cdn.mcauto-images-produ=
+ction.sendgrid.net/ace90c98c8e22aeb/86ec9c41-fb4a-4747-8f5f-4772619b590b/70=
+0x104.png">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"2505d176-a912-4db0-b687-dd5dfb084ccc" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:16px 15px 26px 15px; line-height:28px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: start"><span st=
+yle=3D"box-sizing: border-box; padding-top: 0px; padding-right: 0px; paddin=
+g-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margi=
+n-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligature=
+s: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font=
+-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight=
+: inherit; font-stretch: inherit; line-height: inherit; font-family: inheri=
+t; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settin=
+gs: inherit; font-variation-settings: inherit; font-size: 16px; vertical-al=
+ign: baseline; border-top-width: 0px; border-right-width: 0px; border-botto=
+m-width: 0px; border-left-width: 0px; border-top-style: initial; border-rig=
+ht-style: initial; border-bottom-style: initial; border-left-style: initial=
+; border-top-color: initial; border-right-color: initial; border-bottom-col=
+or: initial; border-left-color: initial; border-image-source: initial; bord=
+er-image-slice: initial; border-image-width: initial; border-image-outset: =
+initial; border-image-repeat: initial; color: #212121; letter-spacing: norm=
+al; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; =
+widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-c=
+ollapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); t=
+ext-decoration-thickness: initial; text-decoration-style: initial; text-dec=
+oration-color: initial; float: none; display: inline">Hi Isaac,</span></div=
+>
+<div style=3D"font-family: inherit; text-align: start"><br></div>
+<div style=3D"font-family: inherit; text-align: inherit; margin-left: 0px">=
+<span style=3D"box-sizing: border-box; padding-top: 0px; padding-right: 0px=
+; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0p=
+x; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-=
+ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inher=
+it; font-variant-east-asian: inherit; font-variant-alternates: inherit; fon=
+t-weight: inherit; font-stretch: inherit; line-height: inherit; font-family=
+: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-featur=
+e-settings: inherit; font-variation-settings: inherit; font-size: 16px; ver=
+tical-align: baseline; border-top-width: 0px; border-right-width: 0px; bord=
+er-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; bo=
+rder-right-style: initial; border-bottom-style: initial; border-left-style:=
+ initial; border-top-color: initial; border-right-color: initial; border-bo=
+ttom-color: initial; border-left-color: initial; border-image-source: initi=
+al; border-image-slice: initial; border-image-width: initial; border-image-=
+outset: initial; border-image-repeat: initial; color: #212121; letter-spaci=
+ng: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform=
+: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white=
+-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255,=
+ 255); text-decoration-thickness: initial; text-decoration-style: initial; =
+text-decoration-color: initial; float: none; display: inline">Great news, y=
+our Buy Now sale is complete and funds will be applied to your Fanatics Col=
+lect account soon!</span>&nbsp;</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+center" width=3D"100%" role=3D"module" data-type=3D"columns" style=3D"paddi=
+ng:0px 0px 10px 0px;" bgcolor=3D"#FFFFFF" data-distribution=3D"1,2">
+    <tbody>
+      <tr role=3D"module-content">
+        <td height=3D"100%" valign=3D"top"><table width=3D"230" style=3D"wi=
+dth:230px; border-spacing:0; border-collapse:collapse; margin:0px 4px 0px 0=
+px;" cellpadding=3D"0" cellspacing=3D"0" align=3D"left" border=3D"0" bgcolo=
+r=3D"" class=3D"column column-0">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"842d9b75-c282-46c2-af48-b3b45127629e">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center"><img class=3D"max-width" border=3D"0" =
+style=3D"display:block; color:#000000; text-decoration:none; font-family:He=
+lvetica, arial, sans-serif; font-size:16px; max-width:60% !important; width=
+:60%; height:auto !important;" width=3D"138" alt=3D"2000 Pokemon Gym Heroes=
+ Holo Misty&apos;s Seadra #9 CGC 8 NM-MT=09" data-proportionally-constraine=
+d=3D"true" data-responsive=3D"true" src=3D"https://dilxwvfkfup17.cloudfront=
+.net/eyJpdiI6InQwUVB2c2t1MmM0L0J2ZHpSL0RBTlE9PSIsInZhbHVlIjoicVN4V2ptS3NFWF=
+l3dmdacWpXTVVhSk94bGJIL055L0FDZ01mMjRNaTBjdGEvd2NIcUoyK2UzQ3ZHbDE4VjZRa0w1Z=
+kgzRy9YMWRidFpIbkpRalRWcGc9PSIsIm1hYyI6ImI4ODFlYzA4YmMyNjQzYzc1ODRiZGQ5Mjdk=
+NjUyNTAzMDQyNWIxMjNlMGFhYTc2Zjg4Yjk5NzZkZTJkNjY4ZWEiLCJ0YWciOiIifQ=3D=3D=09=
+"></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width=3D"461" style=3D"width:461px; border-spacing:0; bo=
+rder-collapse:collapse; margin:0px 0px 0px 4px;" cellpadding=3D"0" cellspac=
+ing=3D"0" align=3D"left" border=3D"0" bgcolor=3D"" class=3D"column column-1=
+">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"module" role=3D"module" data-type=3D"spacer" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"326a48c3-dbdc-4615-bfaf-27b568654060">
+    <tbody>
+      <tr>
+        <td style=3D"padding:0px 0px 10px 0px;" role=3D"module-content" bgc=
+olor=3D"">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"ddfcfe49-444e-4932-a47a-dd15efd54a3a" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:30px 15px 10px 15px; line-height:22px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: inherit"><span =
+style=3D"color: #212121; font-style: normal; font-variant-ligatures: normal=
+; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orph=
+ans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: =
+2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse:=
+ preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-deco=
+ration-thickness: initial; text-decoration-style: initial; text-decoration-=
+color: initial; float: none; display: inline; font-family: inherit; font-si=
+ze: 16px"><strong>2000 Pokemon Gym Heroes Holo Misty&apos;s Seadra #9 CGC 8=
+ NM-MT</strong></span><span style=3D"font-family: inherit; font-size: 16px"=
+><strong>&nbsp;</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"2505d176-a912-4db0-b687-dd5dfb084ccc.1.2" data-m=
+c-module-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:16px 15px 16px 15px; line-height:28px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: start"><span st=
+yle=3D"box-sizing: border-box; padding-top: 0px; padding-right: 0px; paddin=
+g-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margi=
+n-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligature=
+s: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font=
+-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight=
+: inherit; font-stretch: inherit; line-height: inherit; font-family: inheri=
+t; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settin=
+gs: inherit; font-variation-settings: inherit; font-size: 14px; vertical-al=
+ign: baseline; border-top-width: 0px; border-right-width: 0px; border-botto=
+m-width: 0px; border-left-width: 0px; border-top-style: initial; border-rig=
+ht-style: initial; border-bottom-style: initial; border-left-style: initial=
+; border-top-color: initial; border-right-color: initial; border-bottom-col=
+or: initial; border-left-color: initial; border-image-source: initial; bord=
+er-image-slice: initial; border-image-width: initial; border-image-outset: =
+initial; border-image-repeat: initial; color: #737373; letter-spacing: norm=
+al; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; =
+widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-c=
+ollapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); t=
+ext-decoration-thickness: initial; text-decoration-style: initial; text-dec=
+oration-color: initial; float: none; display: inline">SALE PRICE:</span></d=
+iv>
+<div style=3D"font-family: inherit; text-align: inherit; margin-left: 0px">=
+<span style=3D"box-sizing: border-box; padding-top: 0px; padding-right: 0px=
+; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0p=
+x; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-=
+ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inher=
+it; font-variant-east-asian: inherit; font-variant-alternates: inherit; fon=
+t-weight: inherit; font-stretch: inherit; line-height: inherit; font-family=
+: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-featur=
+e-settings: inherit; font-variation-settings: inherit; vertical-align: base=
+line; border-top-width: 0px; border-right-width: 0px; border-bottom-width: =
+0px; border-left-width: 0px; border-top-style: initial; border-right-style:=
+ initial; border-bottom-style: initial; border-left-style: initial; border-=
+top-color: initial; border-right-color: initial; border-bottom-color: initi=
+al; border-left-color: initial; border-image-source: initial; border-image-=
+slice: initial; border-image-width: initial; border-image-outset: initial; =
+border-image-repeat: initial; color: #212121; letter-spacing: normal; orpha=
+ns: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2=
+; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: =
+preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decoration-c=
+olor: initial; float: none; display: inline; font-size: 20px">$32.00</span>=
+</div>
+<div style=3D"font-family: inherit; text-align: inherit; margin-left: 0px">=
+<span style=3D"box-sizing: border-box; padding-top: 0px; padding-right: 0px=
+; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0p=
+x; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-=
+ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inher=
+it; font-variant-east-asian: inherit; font-variant-alternates: inherit; fon=
+t-weight: inherit; font-stretch: inherit; line-height: inherit; font-family=
+: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-featur=
+e-settings: inherit; font-variation-settings: inherit; font-size: 14px; ver=
+tical-align: baseline; border-top-width: 0px; border-right-width: 0px; bord=
+er-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; bo=
+rder-right-style: initial; border-bottom-style: initial; border-left-style:=
+ initial; border-top-color: initial; border-right-color: initial; border-bo=
+ttom-color: initial; border-left-color: initial; border-image-source: initi=
+al; border-image-slice: initial; border-image-width: initial; border-image-=
+outset: initial; border-image-repeat: initial; color: #737373; letter-spaci=
+ng: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform=
+: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white=
+-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255,=
+ 255); text-decoration-thickness: initial; text-decoration-style: initial; =
+text-decoration-color: initial; float: none; display: inline">SELLER FEES:<=
+/span></div>
+<div style=3D"font-family: inherit; text-align: inherit; margin-left: 0px">=
+<span style=3D"box-sizing: border-box; padding-top: 0px; padding-right: 0px=
+; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0p=
+x; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-=
+ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inher=
+it; font-variant-east-asian: inherit; font-variant-alternates: inherit; fon=
+t-weight: inherit; font-stretch: inherit; line-height: inherit; font-family=
+: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-featur=
+e-settings: inherit; font-variation-settings: inherit; vertical-align: base=
+line; border-top-width: 0px; border-right-width: 0px; border-bottom-width: =
+0px; border-left-width: 0px; border-top-style: initial; border-right-style:=
+ initial; border-bottom-style: initial; border-left-style: initial; border-=
+top-color: initial; border-right-color: initial; border-bottom-color: initi=
+al; border-left-color: initial; border-image-source: initial; border-image-=
+slice: initial; border-image-width: initial; border-image-outset: initial; =
+border-image-repeat: initial; color: #212121; letter-spacing: normal; orpha=
+ns: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2=
+; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: =
+preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decoration-c=
+olor: initial; float: none; display: inline; font-size: 20px">$1.92</span><=
+/div>
+<div style=3D"font-family: inherit; text-align: inherit; margin-left: 0px">=
+<span style=3D"box-sizing: border-box; padding-top: 0px; padding-right: 0px=
+; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0p=
+x; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-=
+ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inher=
+it; font-variant-east-asian: inherit; font-variant-alternates: inherit; fon=
+t-weight: inherit; font-stretch: inherit; line-height: inherit; font-family=
+: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-featur=
+e-settings: inherit; font-variation-settings: inherit; font-size: 14px; ver=
+tical-align: baseline; border-top-width: 0px; border-right-width: 0px; bord=
+er-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; bo=
+rder-right-style: initial; border-bottom-style: initial; border-left-style:=
+ initial; border-top-color: initial; border-right-color: initial; border-bo=
+ttom-color: initial; border-left-color: initial; border-image-source: initi=
+al; border-image-slice: initial; border-image-width: initial; border-image-=
+outset: initial; border-image-repeat: initial; color: #737373; letter-spaci=
+ng: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform=
+: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white=
+-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255,=
+ 255); text-decoration-thickness: initial; text-decoration-style: initial; =
+text-decoration-color: initial; float: none; display: inline">TOTAL PAYOUT:=
+</span></div>
+<div style=3D"font-family: inherit; text-align: inherit; margin-left: 0px">=
+<span style=3D"box-sizing: border-box; padding-top: 0px; padding-right: 0px=
+; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0p=
+x; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-=
+ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inher=
+it; font-variant-east-asian: inherit; font-variant-alternates: inherit; fon=
+t-weight: inherit; font-stretch: inherit; line-height: inherit; font-family=
+: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-featur=
+e-settings: inherit; font-variation-settings: inherit; vertical-align: base=
+line; border-top-width: 0px; border-right-width: 0px; border-bottom-width: =
+0px; border-left-width: 0px; border-top-style: initial; border-right-style:=
+ initial; border-bottom-style: initial; border-left-style: initial; border-=
+top-color: initial; border-right-color: initial; border-bottom-color: initi=
+al; border-left-color: initial; border-image-source: initial; border-image-=
+slice: initial; border-image-width: initial; border-image-outset: initial; =
+border-image-repeat: initial; color: #212121; letter-spacing: normal; orpha=
+ns: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2=
+; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: =
+preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decoration-c=
+olor: initial; float: none; display: inline; font-size: 20px"><strong>$30.0=
+8</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+module" data-role=3D"module-button" data-type=3D"button" role=3D"module" st=
+yle=3D"table-layout:fixed;" width=3D"100%" data-muid=3D"65b5f3e0-56d2-4732-=
+9dc7-c4ef45be9262">
+      <tbody>
+        <tr>
+          <td align=3D"left" bgcolor=3D"" class=3D"outer-td" style=3D"paddi=
+ng:0px 15px 0px 15px;">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"wrapper-mobile" style=3D"text-align:center;">
+              <tbody>
+                <tr>
+                <td align=3D"center" bgcolor=3D"#FF5555" class=3D"inner-td"=
+ style=3D"border-radius:6px; font-size:16px; text-align:left; background-co=
+lor:inherit;">
+                  <a href=3D"https://url7562.email.fanaticscollect.com/ls/c=
+lick?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG63drnElqya64H6IWL4fxF7fO8-2Bxe4NAdgS7=
+zW1d77WGk2jus99OdquAPHGMpTWumCMQ48fncicylGQOT0z4ofDDau1s8Pdc6NX4IXs7SmXjmZF=
+NP_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLC=
+PLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9=
+g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-=
+2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhUHPRfu3-2FW-2B=
+-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmnzN95MPP8q573B=
+lQEMXQuJNQtDtHCos-2BZ50BTmL-2BDjECixOQA-2Fn0jelLFD1DdDt8gVs9drF7jICIWSFTsZi=
+eS8chMSXew7uD2tf0bFs87Xq8Y62EN8ULZEBrvnxHIWKn4-2BBGfF3-2BYpiEP7irl6hb4YEi0-=
+3D" style=3D"background-color:#FF5555; border:2px solid #FF5555; border-col=
+or:#FF5555; border-radius:30px; border-width:2px; color:#ffffff; display:in=
+line-block; font-size:16px; font-weight:bold; letter-spacing:0px; line-heig=
+ht:normal; padding:12px 32px 12px 32px; text-align:center; text-decoration:=
+none; border-style:solid; font-family:inherit;" target=3D"_blank">VIEW RECE=
+NT SALES</a>
+                </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table><table class=3D"module" role=3D"module" data-type=3D"text" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"2505d176-a912-4db0-b687-dd5dfb084ccc.1.1.1" da=
+ta-mc-module-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:25px 15px 16px 15px; line-height:28px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: start"><span st=
+yle=3D"box-sizing: border-box; padding-top: 0px; padding-right: 0px; paddin=
+g-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margi=
+n-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligature=
+s: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font=
+-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight=
+: inherit; font-stretch: inherit; line-height: inherit; font-family: inheri=
+t; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settin=
+gs: inherit; font-variation-settings: inherit; font-size: 16px; vertical-al=
+ign: baseline; border-top-width: 0px; border-right-width: 0px; border-botto=
+m-width: 0px; border-left-width: 0px; border-top-style: initial; border-rig=
+ht-style: initial; border-bottom-style: initial; border-left-style: initial=
+; border-top-color: initial; border-right-color: initial; border-bottom-col=
+or: initial; border-left-color: initial; border-image-source: initial; bord=
+er-image-slice: initial; border-image-width: initial; border-image-outset: =
+initial; border-image-repeat: initial; color: #000000; letter-spacing: norm=
+al; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; =
+widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-c=
+ollapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); t=
+ext-decoration-thickness: initial; text-decoration-style: initial; text-dec=
+oration-color: initial">If you have any questions, feel free to reach out t=
+o our Collector Experience at one of the links below.</span></div><div></di=
+v></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"spacer" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"827306af-cc62-4215-840c-f584783b8ff2">
+    <tbody>
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;" role=3D"module-content" bgc=
+olor=3D"">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"code" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"8b12ccbd-5a60-46c9-8e90-19f3a9c11a5a">
+    <tbody>
+      <tr>
+        <td height=3D"100%" valign=3D"top" role=3D"module-content"><table c=
+lass=3D"sg_row sg_row-6" align=3D"center" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09=09<table class=3D"sg_row-content" align=3D"center" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt; background-color: #f9f9f9; border-radi=
+us: 0; color: #000000; width: 700px; margin: 0 auto;" width=3D"700">
+=09=09=09=09=09<tbody>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td class=3D"sg_column sg_column-1" width=3D"16.666666=
+666666668%" style=3D"mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-wei=
+ght: 400; text-align: left; padding-top: 24px; padding-left: 24px; vertical=
+-align: middle; border-top: 0px; border-right: 0px; border-bottom: 0px; bor=
+der-left: 0px;">
+=09=09=09=09=09=09=09=09<table class=3D"image_block block-1" width=3D"100%"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" sty=
+le=3D"mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td class=3D"pad" style=3D"width:100%;">
+=09=09=09=09=09=09=09=09=09=09=09<div class=3D"alignment" align=3D"left" st=
+yle=3D"line-height:10px">
+=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"max-width: 92.667px;"><a =
+href=3D"https://url7562.email.fanaticscollect.com/ls/click?upn=3Du001.LRDmB=
+uEtrLGmZSh7Tg-2FG66-2FX-2F2850NXUevRNM-2BTRpAQIsQAJwBCysAM8jNZ7Flh6fPqs_fLk=
+VTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1o=
+lV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GP=
+FRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtm=
+xyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhUHPRfu3-2FW-2B-2B7hu=
+rm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmnzN5kzni9tRY9ZqGYsoo=
+jNlrw6RUQ8-2FFJEMugVxyypwaD5C7REf9VXCPb4asisEuiZTtBBv7hnuV3OJW3YPDdeLVFZMsi=
+5RW68lhwaBF-2FB-2FcHMwoD13ROUOaqXcXbW5vXaEBbR55p4iLgzS6A7pggHU0Y-3D" target=
+=3D"_blank" style=3D"outline:none" tabindex=3D"-1"><img src=3D"https://d15k=
+2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-=
+c542cff6dd6a/1e32117b5d8c4577bec4bdbbe5f4f373/Rebrand/TNC-Fanatics-Marketpl=
+ace1-sized.png" style=3D"display: block; height: auto; border: 0; width: 10=
+0%;" width=3D"92.667" alt=3D"Fanatics Marketplace Logo" title=3D"Fanatics M=
+arketplace Logo"></a></div>
+=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09<td class=3D"sg_column sg_column-2" width=3D"83.333333=
+33333333%" style=3D"mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weig=
+ht: 400; text-align: left; padding-bottom: 5px; padding-right: 24px; paddin=
+g-top: 5px; vertical-align: middle; border-top: 0px; border-right: 0px; bor=
+der-bottom: 0px; border-left: 0px;">
+=09=09=09=09=09=09=09=09<table class=3D"paragraph_block block-1" width=3D"1=
+00%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"=
+ style=3D"mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-w=
+ord;">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td class=3D"pad" style=3D"padding-left:10px;=
+">
+=09=09=09=09=09=09=09=09=09=09=09<div style=3D"color:#000000;direction:ltr;=
+font-family: ABC Diatype Mono, 'PT Mono', monospace;font-size:14px;font-wei=
+ght:400;letter-spacing:0px;line-height:150%;text-align:left;mso-line-height=
+-alt:21px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p class=3D"footer-text" style=3D"margi=
+n: 0;">If you have any general questions, please click <a href=3D"https://u=
+rl7562.email.fanaticscollect.com/ls/click?upn=3Du001.LRDmBuEtrLGmZSh7Tg-2FG=
+64Y-2FvceGEqmBBKIIKByP8lrrOAQWCjfrJK2gZL80cWOTbaaAFGriAnYG9FXqnszCgw-3D-3D5=
+ghc_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZL=
+CPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif=
+9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92=
+-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2B8sXinbZSMR3X1AhUHPRfu3-2FW-2=
+B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZpdSl8sC2RkiLn2UD4RllRYpn2RAJtmnzN1tv5Kn45yI=
+lpU3p55BRO-2FNuQVIYC6glFnMuoAI5kVUjtbAYMPePMrUv6vrzttvfMosKAJN4kK3cW1HN0GV-=
+2FrKXJEUtXtG9aHPIk4s3L3PAnMmwTvpe7kPLvT8sNGW7-2FOYXrSLeTcvplfgWdZnS20WM-3D"=
+ target=3D"_blank" style=3D"text-decoration: none; color: #115dcd;" rel=3D"=
+noopener">here</a>. For more specific inquiries, please click <a href=3D"ht=
+tps://url7562.email.fanaticscollect.com/ls/click?upn=3Du001.LRDmBuEtrLGmZSh=
+7Tg-2FG64Y-2FvceGEqmBBKIIKByP8lrrOAQWCjfrJK2gZL80cWOTchaKD0VZ15kWoqzZEzfbuM=
+pWeYHX3XIymKXChXDRG7f9VWmextesqiWxod73RA4tqbrL_fLkVTkzeN4ckL1aRgEOhOUEIsnYt=
+XAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1M=
+jtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGH=
+BIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AK=
+fasD2Ru5JiiU-2B8sXinbZSMR3X1AhUHPRfu3-2FW-2B-2B7hurm2fCYi-2BaHec4eAx2E1YVgZ=
+pdSl8sC2RkiLn2UD4RllRYpn2RAJtmnzNyMj5wQz-2BRyXcH4iHGrCnl3DmUmZc0yGinbqGfEkO=
+r8zjLX4ki3MxT9JXf2ZF8WK85-2BE6CDaXzrQEJYUQTkTgA2ccRv-2FVT-2BLSm5cTpT0jTBfgd=
+QWmoJoclrUp2jiHuYcUBRh-2BK9-2BFZmHeqp2lSyFyRY-3D" target=3D"_blank" style=
+=3D"text-decoration: none; color: #115dcd;" rel=3D"noopener"> here</a> to c=
+hat with a member of our Collectors Experience team.</p>
+=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09</tbody>
+=09=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<table class=3D"sg_row sg_row-7" align=3D"center" width=3D"100%" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace: 0pt; mso-table-rspace: 0pt;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09=09<table class=3D"sg_row-content stack" align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #f9f9f9; bor=
+der-radius: 0; color: #000000; width: 700px; margin: 0 auto;" width=3D"700"=
+>
+=09=09=09=09=09<tbody>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td class=3D"sg_column sg_column-1" width=3D"100%" sty=
+le=3D"mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-=
+align: left; padding-bottom: 16px; padding-left: 24px; padding-right: 24px;=
+ padding-top: 24px; vertical-align: top; border-top: 0px; border-right: 0px=
+; border-bottom: 0px; border-left: 0px;">
+=09=09=09=09=09=09=09=09<table class=3D"paragraph_block block-1" width=3D"1=
+00%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"=
+ style=3D"mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-w=
+ord;">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td class=3D"pad">
+=09=09=09=09=09=09=09=09=09=09=09<div style=3D"color:#000000;direction:ltr;=
+font-family: ABC Diatype Mono, 'PT Mono', monospace;font-size:14px;font-wei=
+ght:400;letter-spacing:0px;line-height:150%;text-align:left;mso-line-height=
+-alt:21px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p class=3D"footer-text" style=3D"margi=
+n: 0;">Fanatics Collect<br>7560 SW Durham Rd.<br> Tigard, OR 97224</p>
+=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09</tbody>
+=09=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table></td>
+      </tr>
+    </tbody>
+  </table></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D"https://url7562.email.fanaticscollect.com/wf/open?upn=3Du00=
+1.LqiGVzMdpeueZfcsa8aXg2slMYLR1hqpQuUdQl7pgcw6CFfGV9m05w6YtFuExsL4tgMBadQtB=
+nGWmXodCxRkHvz3BArviW6M6pACkkv3uiAMEk-2BPiCHb4ibxy-2FWQ-2FgHfVy6RS9ycKnewXr=
+2HXOA4RG00R-2B0u0U-2FvU-2Fp-2F1psW1TY9USjl1q-2BQq4y3eoXh6E-2FGhrunSY5CaiJEy=
+J0nzGXEsIFkR38o3kRcqg2LSRmNWJ40djACfB0mRGwllsC4ZyTlNZPfh23rWYBaGcLy-2Bub4BF=
+X281C4xjFgt0D8atoUP-2FgBfWSDKMRl0pCAR0IOmGHJzJGukIRxTg4s3PZjw8qDtLbX7Xei9qY=
+TKzQkOP5HoMYe7j4N4T26zFOWVnybZvUdtZtdnA-2FdT3xgOi1TCZ7-2BBnifACrZ0BFjZCp6CD=
+-2F3CWn4-2FaqujCTPafUPUqTWsGrMe3KGgtuADSZzlzcEBRijG8he0t0Hk7uD7YKMk5hldkM-3=
+D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !impo=
+rtant;width:1px !important;border-width:0 !important;margin-top:0 !importan=
+t;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impor=
+tant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !=
+important;padding-left:0 !important;"/></body>
+  </html>
+--5f84dbc7ebd8856134260e145644e2348d1dba2cdf8e287721cb5a56bbad--

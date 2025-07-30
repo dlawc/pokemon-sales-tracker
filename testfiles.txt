@@ -1,0 +1,550 @@
+====================================================================================================
+🚨 NEW EMAIL RECEIVED - 2025-07-26T06:42:35.492Z
+====================================================================================================
+📋 BASIC INFORMATION:
+   📧 From: Fanatics Collect <cs@email.fanaticscollect.com>
+   📬 To: isaaclawchuan@gmail.com
+   📝 Subject: Your Buy Now Sale is Complete! 🎉
+   📅 Date: Sat, 26 Jul 2025 06:42:26 +0000 (UTC)
+   🕐 Internal Date: 2025-07-26T06:42:26.000Z
+
+🔧 TECHNICAL DETAILS:
+   🆔 Message ID: 198457806c631992
+   🧵 Thread ID: 1983078d6f3dd40c
+   📊 History ID: 9380
+   📏 Size: 70014 bytes
+   🏷️  Labels: UNREAD, IMPORTANT, CATEGORY_UPDATES, INBOX
+   📎 MIME Type: multipart/alternative; boundary=f45a4378c6495c9acac15043236a19027d627ed88baddc99bf2e3f96c9c8
+
+📨 EMAIL HEADERS:
+   Message-ID: <G3BvEkzYQbOEKug_tU8nlA@geopod-ismtpd-14>
+   Reply-To: Fanatics Collect <cs@fanaticscollect.com>
+   Return-Path: <isaaclawchuan+caf_=pokeemail77=gmail.com@gmail.com>
+   Delivered-To: pokeemail77@gmail.com
+
+📄 EMAIL CONTENT:
+   📝 Snippet: Funds will be applied to your account soon. Fanatics Marketplace WEEKLYPREMIERBUY NOWSELL Hi Isaac, Great news, your Buy Now sale is complete and funds will be applied to your Fanatics Collect account    
+   📜 Text Body (first 500 chars):
+   Funds will be applied to your account soon.
+
+   Fanatics Marketplace ( https://url7562.email.fanaticscollect.com/ls/click?upn=u001.LRDmBuEtrLGmZSh7Tg-2FG66-2FX-2F2850NXUevRNM-2BTRpAQIsQAJwBCysAM8jNZ7Flh60w2u_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2BR45TK66s3oPQB53LEUrmMn8Ox...
+   🌐 HTML Body (first 300 chars):
+   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+   <html data-editor-version="2" class="sg-campaigns" xmlns="http://www.w3.org/1999/xhtml">
+       <head>
+         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+         <meta ...
+
+📎 ATTACHMENTS: None
+
+🛤️  EMAIL ROUTE (Received Headers):
+   1. by 2002:a05:6130:1142:b0:881:1b5f:2b9b with SMTP id cf2csp1889065uab;        Fri, 25 Jul 2025 23:42:31 -0700 (PDT)
+   2. from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id 38308e7fff4ca-331f42067dcsor2545721fa.12.2025.07.25.23.42.30        for <pokeemail77@gmail.com>        (Google Transport Security);        Fri, 25 Jul 2025 23:42:30 -0700 (PDT)
+   3. by 2002:a2e:8481:0:b0:331:e870:3a52 with SMTP id b1csp862130ljh;        Fri, 25 Jul 2025 23:42:28 -0700 (PDT)
+   4. from xvfrqbrf.outbound-mail.sendgrid.net (xvfrqbrf.outbound-mail.sendgrid.net. [168.245.75.95])        by mx.google.com with ESMTPS id af79cd13be357-7e6432b1c24si85932785a.189.2025.07.25.23.42.27        for <isaaclawchuan@gmail.com>        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);        Fri, 25 Jul 2025 23:42:28 -0700 (PDT)
+   5. by recvd-796bfbffd6-mg86z with SMTP id recvd-796bfbffd6-mg86z-1-688478D2-E 2025-07-26 06:42:26.357654565 +0000 UTC m=+4457337.760788564
+   6. from MjAyNjY3OTA (unknown) by geopod-ismtpd-14 (SG) with HTTP id G3BvEkzYQbOEKug_tU8nlA Sat, 26 Jul 2025 06:42:26.313 +0000 (UTC)
+
+🎮 ⚡ POKEMON ALERT! ⚡ 🎮
+   This email contains Pokemon-related content!
+
+====================================================================================================
+
+📲 Sending email to Telegram...
+
+🔧 DEBUG: FANATICS PARSING INPUT
+==================================
+Email Content Length: 47196
+Has HTML Body: true
+Has Text Body: true
+FULL EMAIL CONTENT:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version="2" class="sg-campaigns" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+      <!--[if !mso]><!-->
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type="text/css">
+    body {width: 700px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type="text/css">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #115dcd;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><link href="https://pwccauctions.s3.us-west-2.amazonaws.com/website/fonts/ABC-Diatype.css" rel="stylesheet"><style>@import url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-Regular.woff2"),("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-Bold.woff2")</style><style>*{
+        box-sizing:border-box;
+        font-family: ABC Diatype, "Helvetica", "Arial", sans-serif;
+}
+body{
+        margin:0;
+        padding:0;
+        font-family: ABC Diatype, "Helvetica", "Arial", sans-serif;
+}
+a[x-apple-data-detectors]{
+        color:inherit!important;
+        text-decoration:inherit!important
+}
+#MessageViewBody a{
+        color:inherit;
+        text-decoration:none
+}
+p{
+        line-height:inherit
+}
+.desktop_hide,.desktop_hide table{
+        mso-hide:all;
+        display:none;
+        max-height:0;
+        overflow:hidden
+}
+.image_block img+div{
+        display:none
+}
+.menu_block.desktop_hide .menu-links span{
+        mso-hide:all
+}
+@media (max-width:720px){
+        .mobile_hide{
+                display:none
+        }
+        .sg_row-content{
+                width:100%!important
+        }
+        .stack .sg_column{
+                width:100%;
+                display:block
+        }
+        .mobile_hide{
+                min-height:0;
+                max-height:0;
+                max-width:0;
+                overflow:hidden;
+                font-size:0
+        }
+        .desktop_hide,.desktop_hide table{
+                display:table!important;
+                max-height:none!important
+        }
+        .sg_row-2 .sg_column-1 .block-1.heading_block h3,.sg_row-2 .sg_column-3 .block-1.heading_block h3,.sg_row-3 .sg_column-1 .block-1.heading_block h3,.sg_row-3 .sg_column-2 .block-1.heading_block h3,.sg_row-7 .sg_column-1 .block-1.paragraph_block td.pad>div,.sg_row-8 .sg_column-1 .block-1.paragraph_block td.pad>div{
+                font-size:12px!important
+        }
+        .sg_row-1 .sg_column-2 .block-1.menu_block .alignment{
+                text-align:center!important
+        }
+        .sg_row-1 .sg_column-2 .block-1.menu_block td.pad{
+                padding:8px 0!important
+        }
+        .sg_row-1 .sg_column-2 .block-1.menu_block .menu-links a,.sg_row-1 .sg_column-2 .block-1.menu_block .menu-links span{
+                font-size:13px!important
+        }
+        .sg_row-1 .sg_column-1{
+                padding:0px!important
+        }
+        .sg_row-1 .sg_column-2{
+                padding:0px!important
+        }
+        .sg_row-5 .sg_column-1{
+                padding:5px 0 16px!important
+        }
+        .sg_row-7 .sg_column-1,.sg_row-8 .sg_column-1{
+                padding:16px!important
+        }
+        .sg_row-6 .sg_column-1{
+                padding: 16px 8px !important;
+        }
+        .sg_row-6 .sg_column-2{
+                padding:16px 8px!important
+        }
+        .mobile-text-14{
+                font-size: 14px !important;
+        }
+        .logo-desktop{
+                padding-top: 0px !important;
+                 padding-bottom: 0px !important;
+        }
+        .menu_links_dsktp_pad_16{
+                padding-left: 8px !important;
+                 padding-right: 8px !important;
+        }
+        .footer-text{
+                font-size: 12px !important;
+                line-height: 1.5 !important;
+        }
+}
+</style><!--End Head user entered-->
+    </head>
+    <body>
+      <center class="wrapper" data-link-color="#115dcd" data-body-style="font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; background-color:#FFFFFF;">
+        <div class="webkit">
+          <table cellpadding="0" cellspacing="0" border="0" width="100%" class="wrapper" bgcolor="#FFFFFF">
+            <tr>
+              <td valign="top" bgcolor="#FFFFFF" width="100%">
+                <table width="100%" role="content-container" class="outer" align="center" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td width="100%">
+                      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width="700">
+  <![endif]-->
+                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:700px;" align="center">
+                                      <tr>
+                                        <td role="modules-container" style="padding:0px 0px 0px 0px; color:#000000; text-align:left;" bgcolor="#FFFFFF" width="100%" align="left"><table class="module preheader preheader-hide" role="module" data-type="preheader" border="0" cellpadding="0" cellspacing="0" width="100%" style="display: none !important; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">
+    <tr>
+      <td role="module-content">
+        <p>Funds will be applied to your account soon.</p>
+      </td>
+    </tr>
+  </table><table class="module" role="module" data-type="code" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="61323453-ff61-470c-9c30-dc8998e2401c">
+    <tbody>
+      <tr>
+        <td height="100%" valign="top" role="module-content"><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff" width="100%" class="sg_row sg_row-1" align="center">
+<tr>
+   <td>
+          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:700px;margin:0 auto" width="700" class="sg_row-content stack" align="center">
+                 <tr>
+                        <td class="sg_column sg_column-1 logo-sg_column" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:center;padding-left:8px;padding-right:8px;vertical-align:middle;border-top:0;border-right:0;border-bottom:0;border-left:0;margin:0 auto!important;background:linear-gradient(#fff,#fff);background-color:#fff" width="33.333333333333336%">
+                           <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0" width="100%" class="block-1 image_block">
+                                  <tr>
+                                         <td class="pad" style="padding-bottom:10px;padding-top:10px;width:100%;padding-right:0;padding-left:0">
+                                                <div class="alignment" align="center" style="line-height:10px">
+                                                   <div><a href="https://url7562.email.fanaticscollect.com/ls/click?upn=u001.LRDmBuEtrLGmZSh7Tg-2FG66-2FX-2F2850NXUevRNM-2BTRpAQIsQAJwBCysAM8jNZ7Flh6chOh_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2BR45TK66s3oPQB53LEUrmMn8OxLizpHc21Y05oLns6I0LAaha0YezpxiwiqxipwBL-2FyxoBTYrdWLAmPld-2B0sH49QP-2BOZfZw62LQcvFSuHP-2BN0bl6DyMsSyEJJ2An9JlnLTdLpbFaB2vh8QOYe22rxb9Dwe9E-2BmBbAgJSlbNZvowLp2KxOuAhOF0Vkq7LwT18JDaCbepSD3d5pu9fXSxQNAc8GQxdaaas4PEIR3DkhaTQ-3D" style="outline:0" target="_blank" tabindex="-1"><img alt="Fanatics Marketplace" class="logo-desktop" src="http://cdn.mcauto-images-production.sendgrid.net/ace90c98c8e22aeb/ab8cfd1a-0e77-42cc-99a1-073d96c559e0/1100x400.png" style="display:block;margin:0 auto!important;height:auto;border:0;width:180px;max-width:180px" title="Fanatics Collect" width="180"></a></div>
+                                                </div>
+                                         </td>
+                                  </tr>
+                           </table>
+                        </td>
+                        <td class="sg_column sg_column-2 menu-sg_column" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:right;padding-bottom:0;padding-right:0;padding-top:0;vertical-align:middle;border-top:0;border-right:0;border-bottom:0;border-left:0" width="66.66666666666667%">
+                           <table border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0" width="100%" class="block-1 menu_block">
+                                  <tr>
+                                         <td class="pad">
+                                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0" width="100%">
+                                                   <tr>
+                                                          <td class="alignment" style="text-align:center;font-size:0">
+                                                                 <div class="menu-links">
+                                                                        <!--[if mso]>
+                                                                        <table border=0 cellpadding=0 cellspacing=0 role=presentation align=center>
+                                                                           <tr style=text-align:center>
+                                                                                  <![endif]--><!--[if mso]>
+                                                                                  <td style=padding-top:16px;padding-right:16px;padding-left:16px;padding-bottom:8px>
+                                                                                         <![endif]--><a href="https://url7562.email.fanaticscollect.com/ls/click?upn=u001.LRDmBuEtrLGmZSh7Tg-2FG63hi2-2BVTmRPAsb2VZIunhOdSLVK2rGeWZ3i3kAiWwqm131zgJFHgVRuSWSE18XpUaR4NYKwF2SPOIMMIso-2FM5ng-3DxK2x_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2BR45TK66s3oPQB53LEUrmMn8OxLizpHc21Y05oLns6I0LAaha0YezpxiwiqxipwBL-2FyxoBTYrdWLAmPld-2B0sH449nuX5wU6kl7yfmNSwCCF6t2U-2BzrQRzLhn4MNJRfVZhj1JShSd2wdycm8el3lFuFgDAEz1kwQXoHVE2kCZXDAQY-2Fa9WBx6gql-2FyI8o17hjC4UERmfSWvDT1-2F89IPdD40mqGPV82RWHM0bg6EFr-2FS0Q-3D" style="mso-hide:false;padding-top:16px;padding-bottom:8px;padding-left:8px;padding-right:8px;display:inline-block;color:#000;font-family: ABC Diatype Mono, 'PT Mono', monospace;font-size:12px;text-decoration:none;letter-spacing:normal" target="_self" class="menu_links_dsktp_pad_16">WEEKLY</a><!--[if mso]><![endif]--><!--[if mso]>
+                                                                                  <td style=padding-top:16px;padding-right:16px;padding-left:16px;padding-bottom:8px>
+                                                                                         <![endif]--><a href="https://url7562.email.fanaticscollect.com/ls/click?upn=u001.LRDmBuEtrLGmZSh7Tg-2FG63hi2-2BVTmRPAsb2VZIunhOejMK7LfMt1YV-2FoGeX23sxqc2dW6fgFBDNj-2BW9yjrHvdkBha3cOB608WK9nwUiiEYQ-3Dd_cQ_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2BR45TK66s3oPQB53LEUrmMn8OxLizpHc21Y05oLns6I0LAaha0YezpxiwiqxipwBL-2FyxoBTYrdWLAmPld-2B0sH446uxobXMPwK4hl61Z5bQU9Gw2TX-2FJYPoyk1-2BqeGPatD3e3om-2FGjrDjxlnTb2WwKgpu-2FYaMmPaRn07u0IhK5-2BE9jedzvlGNNxnhZblU2gjWAMXDHvljHPoYCEQ0eKL87zWc8kINX668jwiAkMl7RSXY-3D" style="mso-hide:false;padding-top:16px;padding-bottom:8px;padding-left:8px;padding-right:8px;display:inline-block;color:#000;font-family: ABC Diatype Mono, 'PT Mono', monospace;font-size:12px;text-decoration:none;letter-spacing:normal" target="_self" class="menu_links_dsktp_pad_16">PREMIER</a><!--[if mso]><![endif]--><!--[if mso]>
+                                                                                  <td style=padding-top:16px;padding-right:16px;padding-left:16px;padding-bottom:8px>
+                                                                                         <![endif]--><a href="https://url7562.email.fanaticscollect.com/ls/click?upn=u001.LRDmBuEtrLGmZSh7Tg-2FG63hi2-2BVTmRPAsb2VZIunhOep8-2BGMDROy2laJ6xstCkvflyO-2FFRa-2BH33CStrtOkWY04Z-2BPU-2BLNCQ7-2BDv3-2BdH61WY-3DrGiG_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2BR45TK66s3oPQB53LEUrmMn8OxLizpHc21Y05oLns6I0LAaha0YezpxiwiqxipwBL-2FyxoBTYrdWLAmPld-2B0sH47-2BpG-2BhNNCmEIrmy2qIUOYDDha0gxNP-2FFfpUKSBIj974WKanbG43-2Bwr8f63Oe67olrfRhgxFTabsLzzNGpWEB3xylEKDXM-2Bj-2FqnZFnpkhO6fvYB3zNmug-2BjWqXGvrL6J8-2FrTaOSjrNe8R1YA1NMZrMc-3D" style="mso-hide:false;padding-top:16px;padding-bottom:8px;padding-left:8px;padding-right:8px;display:inline-block;color:#000;font-family: ABC Diatype Mono, 'PT Mono', monospace;font-size:12px;text-decoration:none;letter-spacing:normal" target="_self" class="menu_links_dsktp_pad_16">BUY NOW</a><!--[if mso]><![endif]--><!--[if mso]>
+                                                                                  <td style=padding-top:16px;padding-right:16px;padding-left:16px;padding-bottom:8px>
+                                                                                         <![endif]--><a href="https://url7562.email.fanaticscollect.com/ls/click?upn=u001.LRDmBuEtrLGmZSh7Tg-2FG63drnElqya64H6IWL4fxF7efomFFug1tUbH1-2BRHdTiu6SmMwMD6-2BO1inkNRBChClQQ-3D-3DEm8J_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2BR45TK66s3oPQB53LEUrmMn8OxLizpHc21Y05oLns6I0LAaha0YezpxiwiqxipwBL-2FyxoBTYrdWLAmPld-2B0sH40gFNN413qCnIazjUewwzuFez8VZDkVuPBdEdTe78gTdZkoxRnwnmzCi-2B9c3nTuM24IDTaqR2cYQ710FSbSa10EHX2MPBsarf0P4RIew0bOLYyLGE-2BWLtVHsuJArLw-2BXaIes4OMR-2FS7oJeAl-2BJ9KRmw-3D" style="mso-hide:false;padding-top:16px;padding-bottom:8px;padding-left:8px;padding-right:8px;display:inline-block;color:#000;font-family: ABC Diatype Mono, 'PT Mono', monospace;font-size:12px;text-decoration:none;letter-spacing:normal" target="_self" class="menu_links_dsktp_pad_16">SELL</a><!--[if mso]><![endif]--><!--[if mso]><![endif]-->
+                                                                 </div>
+                                                                 </td></tr></table>
+                                                          </td>
+                                                   </tr>
+                                                </table>
+                                         </td>
+                                  </tr>
+                           </table>
+                        </td>
+                 </tr>
+          </table></td>
+      </tr>
+    </tbody>
+  </table><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="fba31bb8-ba3a-4b6e-9be8-e9f52138b7fc.1">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:10px 0px 10px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; width:100%; height:auto !important;" width="700" alt="Purchase Completed" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/ace90c98c8e22aeb/86ec9c41-fb4a-4747-8f5f-4772619b590b/700x104.png">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="2505d176-a912-4db0-b687-dd5dfb084ccc" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:16px 15px 26px 15px; line-height:28px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: start"><span style="box-sizing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 16px; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; color: #212121; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline">Hi Isaac,</span></div>
+<div style="font-family: inherit; text-align: start"><br></div>
+<div style="font-family: inherit; text-align: inherit; margin-left: 0px"><span style="box-sizing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 16px; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; color: #212121; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline">Great news, your Buy Now sale is complete and funds will be applied to your Fanatics Collect account soon!</span>&nbsp;</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 0px 10px 0px;" bgcolor="#FFFFFF" data-distribution="1,2">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="230" style="width:230px; border-spacing:0; border-collapse:collapse; margin:0px 4px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="842d9b75-c282-46c2-af48-b3b45127629e">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center"><img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:60% !important; width:60%; height:auto !important;" width="138" alt="2000 Pokemon Base Set 2 Holo Mewtwo #10 CGC 9 MINT " data-proportionally-constrained="true" data-responsive="true" src="https://dilxwvfkfup17.cloudfront.net/eyJpdiI6Im5OUGcxb2EzNkYzOGMzTGhyQWxjaFE9PSIsInZhbHVlIjoiRFBwbjhHbFpPRTViNi9welNKVGlJbm9waGYzNVVjMnhtOSt3VCtOSm1Dai9MWXhkK1lRbCtEVHZjZkZCN1grU0UwYlliS0ZlcXZDWFRHMDkvczlFWGc9PSIsIm1hYyI6IjNiMjMxYTA2OTRmOTRiZWUxNGMzN2Q4NWRjODZlNmU3Zjg0NzQwZDM0YWZkNGM2NjMxYjMwZGE5NzE0MWM2ZWQiLCJ0YWciOiIifQ==    "></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="461" style="width:461px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 4px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">        
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="spacer" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="326a48c3-dbdc-4615-bfaf-27b568654060">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 10px 0px;" role="module-content" bgcolor="">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="ddfcfe49-444e-4932-a47a-dd15efd54a3a" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:30px 15px 10px 15px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="color: #212121; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline; font-family: inherit; font-size: 16px"><strong>2000 Pokemon Base Set 2 Holo Mewtwo #10 CGC 9 MINT</strong></span><span style="font-family: inherit; font-size: 16px"><strong>&nbsp;</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="2505d176-a912-4db0-b687-dd5dfb084ccc.1.2" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:16px 15px 16px 15px; line-height:28px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: start"><span style="box-sizing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 14px; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; color: #737373; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline">SALE PRICE:</span></div>
+<div style="font-family: inherit; text-align: inherit; margin-left: 0px"><span style="box-sizing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; color: #212121; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline; font-size: 20px">$120.00</span></div>
+<div style="font-family: inherit; text-align: inherit; margin-left: 0px"><span style="box-sizing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 14px; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; color: #737373; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline">SELLER FEES:</span></div>
+<div style="font-family: inherit; text-align: inherit; margin-left: 0px"><span style="box-sizing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; color: #212121; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline; font-size: 20px">$7.20</span></div>
+<div style="font-family: inherit; text-align: inherit; margin-left: 0px"><span style="box-sizing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 14px; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; color: #737373; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline">TOTAL PAYOUT:</span></div>
+<div style="font-family: inherit; text-align: inherit; margin-left: 0px"><span style="box-sizing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; color: #212121; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline; font-size: 20px"><strong>$112.80</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" class="module" data-role="module-button" data-type="button" role="module" style="table-layout:fixed;" width="100%" data-muid="65b5f3e0-56d2-4732-9dc7-c4ef45be9262">
+      <tbody>
+        <tr>
+          <td align="left" bgcolor="" class="outer-td" style="padding:0px 15px 0px 15px;">
+            <table border="0" cellpadding="0" cellspacing="0" class="wrapper-mobile" style="text-align:center;">
+              <tbody>
+                <tr>
+                <td align="center" bgcolor="#FF5555" class="inner-td" style="border-radius:6px; font-size:16px; text-align:left; background-color:inherit;">
+                  <a href="https://url7562.email.fanaticscollect.com/ls/click?upn=u001.LRDmBuEtrLGmZSh7Tg-2FG63drnElqya64H6IWL4fxF7fO8-2Bxe4NAdgS7zW1d77WGk2jus99OdquAPHGMpTWumCMQ48fncicylGQOT0z4ofDDau1s8Pdc6NX4IXs7SmXjmABUI_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2BR45TK66s3oPQB53LEUrmMn8OxLizpHc21Y05oLns6I0LAaha0YezpxiwiqxipwBL-2FyxoBTYrdWLAmPld-2B0sH4yx-2Bt4-2FYvp2ciLjfB4WUmxnzgFNNgJ0DbYd-2BtPtwMEQVR6XJbSr-2BEZxATwT8f7LXBImiZ0bdbCmc6UhbzLE3Vz79-2FrxU7iJ12It1F-2Bg8VdKo78sNLJ7kL1DHQxaVFcEtO6O7DDIs-2BALu4nYeTLxOiyI-3D" style="background-color:#FF5555; border:2px solid #FF5555; border-color:#FF5555; border-radius:30px; border-width:2px; color:#ffffff; display:inline-block; font-size:16px; font-weight:bold; letter-spacing:0px; line-height:normal; padding:12px 32px 12px 32px; text-align:center; text-decoration:none; border-style:solid; font-family:inherit;" target="_blank">VIEW RECENT SALES</a>
+                </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="2505d176-a912-4db0-b687-dd5dfb084ccc.1.1.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:25px 15px 16px 15px; line-height:28px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: start"><span style="box-sizing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 16px; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; color: #000000; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap: wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial">If you have any questions, feel free to reach out to our Collector Experience at one of the links below.</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="spacer" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="827306af-cc62-4215-840c-f584783b8ff2">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 30px 0px;" role="module-content" bgcolor="">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="code" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="8b12ccbd-5a60-46c9-8e90-19f3a9c11a5a">
+    <tbody>
+      <tr>
+        <td height="100%" valign="top" role="module-content"><table class="sg_row sg_row-6" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+        <tbody>
+                <tr>
+                        <td>
+                                <table class="sg_row-content" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #f9f9f9; border-radius: 0; color: #000000; width: 700px; margin: 0 auto;" width="700">
+                                        <tbody>
+                                                <tr>
+                                                        <td class="sg_column sg_column-1" width="16.666666666666668%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-top: 24px; padding-left: 24px; vertical-align: middle; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+                                                                <table class="image_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                                                        <tr>
+                                                                                <td class="pad" style="width:100%;">
+                                                                                        <div class="alignment" align="left" style="line-height:10px">
+                                                                                                <div style="max-width: 92.667px;"><a href="https://url7562.email.fanaticscollect.com/ls/click?upn=u001.LRDmBuEtrLGmZSh7Tg-2FG66-2FX-2F2850NXUevRNM-2BTRpAQIsQAJwBCysAM8jNZ7Flh6QBnV_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2BR45TK66s3oPQB53LEUrmMn8OxLizpHc21Y05oLns6I0LAaha0YezpxiwiqxipwBL-2FyxoBTYrdWLAmPld-2B0sH473HUjtG-2FsEchqBniWxiM0ENX1bPNfTCiE5O7mDGiGNz-2FbfwVD0EqrizVktPGwSMZRrHt8a1Aekkc0ir4BFCyjtiR5DVYNkyucamf4MoWxh7RTyJG6oi0NW3abCSgKjvVlAUdIT0Uekax2H4s1A3kkU-3D" target="_blank" style="outline:none" tabindex="-1"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/1e32117b5d8c4577bec4bdbbe5f4f373/Rebrand/TNC-Fanatics-Marketplace1-sized.png" style="display: block; height: auto; border: 0; width: 100%;" width="92.667" alt="Fanatics Marketplace Logo" title="Fanatics Marketplace Logo"></a></div>
+                                                                                        </div>
+                                                                                </td>
+                                                                        </tr>
+                                                                </table>
+                                                        </td>
+                                                        <td class="sg_column sg_column-2" width="83.33333333333333%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-bottom: 5px; padding-right: 24px; padding-top: 5px; vertical-align: middle; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+                                                                <table class="paragraph_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+                                                                        <tr>
+                                                                                <td class="pad" style="padding-left:10px;">
+                                                                                        <div style="color:#000000;direction:ltr;font-family: ABC Diatype Mono, 'PT Mono', monospace;font-size:14px;font-weight:400;letter-spacing:0px;line-height:150%;text-align:left;mso-line-height-alt:21px;">
+                                                                                                <p class="footer-text" style="margin: 0;">If you have any general questions, please click <a href="https://url7562.email.fanaticscollect.com/ls/click?upn=u001.LRDmBuEtrLGmZSh7Tg-2FG64Y-2FvceGEqmBBKIIKByP8lrrOAQWCjfrJK2gZL80cWOTbaaAFGriAnYG9FXqnszCgw-3D-3Dklao_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2BR45TK66s3oPQB53LEUrmMn8OxLizpHc21Y05oLns6I0LAaha0YezpxiwiqxipwBL-2FyxoBTYrdWLAmPld-2B0sH4x3sIpRcjmfc68MqdbxF07l3VSx35m9T0h0dNOQXmN-2BJIEEgorm-2Fk91BGgZBWUKtXJTfCbOQwnaRmjq5VlsPQXoqOxIWy-2BN4YIDugvYHX3jD-2Fy-2FCSxC6CL3qB7eOOKVnIJXLpLYEVmoUsumLAjtayKY-3D" target="_blank" style="text-decoration: none; color: #115dcd;" rel="noopener">here</a>. For more specific inquiries, please click <a href="https://url7562.email.fanaticscollect.com/ls/click?upn=u001.LRDmBuEtrLGmZSh7Tg-2FG64Y-2FvceGEqmBBKIIKByP8lrrOAQWCjfrJK2gZL80cWOTchaKD0VZ15kWoqzZEzfbuMpWeYHX3XIymKXChXDRG7f9VWmextesqiWxod73RA4tiHUk_fLkVTkzeN4ckL1aRgEOhOUEIsnYtXAq3hV7woPic5skPrdaiUDdF6mNg7CYAyDI3ax816ZLCPLsB1olV0eI9Z9tOMCLo-2Bpdl0bp1MjtkPk3PSA2YCvwWMVe83a6HiFdr4Yco3Xu8UhnCiGif9g364GPFRBwok7fWnwHtt5ZDM5JgnRGHBIao-2BB9CfBH4-2BnSY5xfxoLFjyki3aHrfH3drL92-2BtKtmxyr430i-2B37ptxEsh4zVq6AKfasD2Ru5JiiU-2BR45TK66s3oPQB53LEUrmMn8OxLizpHc21Y05oLns6I0LAaha0YezpxiwiqxipwBL-2FyxoBTYrdWLAmPld-2B0sH48uAwtlou2zWs5bbDrx-2FPZPlBT76PB6hNyAxAkrUXorGhGJuiYQZKjwb5siYQRmO4hTDDvH4-2BAQEnJXsvw5pjx2k3kE0264zj4yU-2BTOH6YIm3JAleN8rknC-2FattnvJ-2BEpxAa-2FJ7lAE8NKqaffhzJHS4-3D" target="_blank" style="text-decoration: none; color: #115dcd;" rel="noopener"> here</a> to chat with a member of our Collectors Experience team.</p>
+                                                                                        </div>
+                                                                                </td>
+                                                                        </tr>
+                                                                </table>
+                                                        </td>
+                                                </tr>
+                                        </tbody>
+                                </table>
+                        </td>
+                </tr>
+        </tbody>
+</table>
+<table class="sg_row sg_row-7" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+        <tbody>
+                <tr>
+                        <td>
+                                <table class="sg_row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #f9f9f9; border-radius: 0; color: #000000; width: 700px; margin: 0 auto;" width="700">
+                                        <tbody>
+                                                <tr>
+                                                        <td class="sg_column sg_column-1" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-bottom: 16px; padding-left: 24px; padding-right: 24px; padding-top: 24px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+                                                                <table class="paragraph_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+                                                                        <tr>
+                                                                                <td class="pad">
+                                                                                        <div style="color:#000000;direction:ltr;font-family: ABC Diatype Mono, 'PT Mono', monospace;font-size:14px;font-weight:400;letter-spacing:0px;line-height:150%;text-align:left;mso-line-height-alt:21px;">
+                                                                                                <p class="footer-text" style="margin: 0;">Fanatics Collect<br>7560 SW Durham Rd.<br> Tigard, OR 97224</p>
+                                                                                        </div>
+                                                                                </td>
+                                                                        </tr>
+                                                                </table>
+                                                        </td>
+                                                </tr>
+                                        </tbody>
+                                </table>
+                        </td>
+                </tr>
+        </tbody>
+</table></td>
+      </tr>
+    </tbody>
+  </table></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src="https://url7562.email.fanaticscollect.com/wf/open?upn=u001.LqiGVzMdpeueZfcsa8aXg2slMYLR1hqpQuUdQl7pgcw6CFfGV9m05w6YtFuExsL4tgMBadQtBnGWmXodCxRkHvz3BArviW6M6pACkkv3uiAMEk-2BPiCHb4ibxy-2FWQ-2FgHfVy6RS9ycKnewXr2HXOA4RG00R-2B0u0U-2FvU-2Fp-2F1psW1TY9USjl1q-2BQq4y3eoXh6E-2FGhrunSY5CaiJEyJ0nzGXEsIFkR38o3kRcqg2LSRmNWJ40djACfB0mRGwllsC4ZyTlESQwFaygr5AE8EZ3K41zfDQPFJmc-2BJOKFnApCIqzg-2FNGUojuhBsv4xJ46trCoNQ14gQuraZkhmVFARnJ2JTVyQlzGYI8JKr74xCPaFHwu4Lor-2BI61Uitl6T4woW8auwm3AQyPWR0eRxa2Rt1i7euZkuhnpAJ996ODvllOy0eWJsUOpLhFng-2Fr6hV12J3nfZ4-2BSaq5qqiqamJPcgx4C7MZC7S5IxQB8KyxeQIB4gFUyA-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+  </html>
+==================================
+
+
+🔧 DEBUG: FANATICS PARSING OUTPUT
+==================================
+Parsed Results: {
+  "productName": "2000 Pokemon Base Set 2 Holo Mewtwo #10 CGC 9 MINT",
+  "salePrice": "$0",
+  "sellerFees": "$0",
+  "totalPayout": "$0",
+  "isValid": true
+}
+==================================
+
+whats werong
