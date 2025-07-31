@@ -11,11 +11,6 @@ const CREDENTIALS_PATH = path.join(__dirname, 'cred.json');
 const HISTORY_DIR = path.join(__dirname, 'history-data');
 const PORT = process.env.PORT || 3000;
 
-// Telegram Bot Configuration
-const TELEGRAM_BOT_TOKEN = '8463368401:AAFeyXx0KurIwz9quV-paGSsv5Vob54QcEg';
-const TELEGRAM_CHAT_ID = '-1002831667854';  // Updated to new supergroup ID
-const TELEGRAM_API_URL = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
-
 // Global object to store history IDs per email address
 let historyIds = {};
 

@@ -1,8 +1,3 @@
-// Test Telegram integration
-const TELEGRAM_BOT_TOKEN = '8463368401:AAFeyXx0KurIwz9quV-paGSsv5Vob54QcEg';
-const TELEGRAM_CHAT_ID = '-4947013808';
-const TELEGRAM_API_URL = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
-
 // Send message to Telegram group
 async function sendToTelegram(message, options = {}) {
   try {
