@@ -38,7 +38,7 @@ def test_google_sheets_connection():
         
         # Step 3: Test opening the spreadsheet
         print("\n3. Testing spreadsheet access...")
-        spreadsheet_url = "https://docs.google.com/spreadsheets/d/10QNLOUhmRmDTPkOy-XyUMoFYvleg3mYE5a7UtGwNHbA/edit"
+        spreadsheet_url = ""
         
         try:
             spreadsheet = client.open_by_url(spreadsheet_url)
@@ -48,7 +48,6 @@ def test_google_sheets_connection():
             print("   Please check:")
             print("   - The spreadsheet URL is correct")
             print("   - The service account has access to the spreadsheet")
-            print("   - Share the spreadsheet with: pokesheet@bt4222-432708.iam.gserviceaccount.com")
             return False
         
         # Step 4: List all available worksheets

@@ -67,7 +67,7 @@ def initialize_google_sheets():
         creds = Credentials.from_service_account_file("service_account.json", scopes=scope)
         client = gspread.authorize(creds)
         
-        spreadsheet = client.open_by_url("https://docs.google.com/spreadsheets/d/10QNLOUhmRmDTPkOy-XyUMoFYvleg3mYE5a7UtGwNHbA/edit")
+        spreadsheet = client.open_by_url("")
         worksheet = spreadsheet.worksheet("Sale List")
         
         # Test the connection by trying to read the first row
